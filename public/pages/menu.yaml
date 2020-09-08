@@ -1,0 +1,15 @@
+---
+  - item: ABOUT
+    slug: about
+  - item: LAMELLA
+    slug: lamella
+  - item: FLUX
+    slug: flux
+  - item: PIXELS
+    slug: pixels
+  - item: NED
+    slug: ned
+  - item: EXHIBITIONS
+    slug: exhibitions
+  - item: CONTACT
+    slug: contact
