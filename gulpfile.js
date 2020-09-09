@@ -10,14 +10,14 @@ const merge = require("merge-stream");
 function browserSync(done) {
   browsersync.init({
     server: {
-      baseDir: "./public"
+      baseDir: "./doc"
     },
     port: 3000
   });
   done();
 }
 
-var pubRoot = './public/vendor';
+var pubRoot = './doc/vendor';
 
 // BrowserSync reload
 function browserSyncReload(done) {

@@ -45,7 +45,7 @@ function getFile(filePath,res,page404){
 function requestHandler(req, res) {
 	var	
 	fileName = req.url,
-	localFolder = __dirname + '/public/',
+	localFolder = __dirname + '/doc/',
 	page404 = localFolder + '404.html';
 
 	if (fileName=='/'){
