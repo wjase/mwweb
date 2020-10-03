@@ -74,8 +74,9 @@ img {
 
 .caption {
   width: 70%;
-  margin-left: 15%;
-  margin-right: 15%;
+  max-width: 70%;
+  margin-left: 1.2em;
+  margin-right: 30%;
   font-size: 80%;
   white-space: pre;
   line-height: 100%;

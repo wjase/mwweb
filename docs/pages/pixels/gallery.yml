@@ -1,40 +1,62 @@
 ---
   - img: img/Pixels_01_300w.jpg
-    alt: 
+    style: left
+    alt: |
+      Pixels 1
   - img: img/Pixels_02_300w.jpg
-    alt: 
+    alt: |
+      Pixels 2
   - img: img/Pixels_03_300w.jpg
-    alt: 
+    alt: |
+      Pixels 3
   - img: img/Pixels_04_300w.jpg
-    alt: 
+    alt: |
+      Pixels 4
   - img: img/Pixels_05_300w.jpg
-    alt: 
+    alt: |
+      Pixels 5
   - img: img/Pixels_06_300w.jpg
-    alt: 
+    alt: |
+      Pixels 6
   - img: img/Pixels_07_300w.jpg
-    alt: 
+    alt: |
+      Pixels 7
   - img: img/Pixels_08_300w.jpg
-    alt: 
+    alt: |
+      Pixels 8
   - img: img/Pixels_09_300w.jpg
-    alt: 
+    alt: |
+      Pixels 9
   - img: img/Pixels_10_300w.jpg
-    alt: 
+    alt: |
+      Pixels 10
   - img: img/Pixels_11_300w.jpg
-    alt: 
+    alt: |
+      Pixels 11
   - img: img/Pixels_12_300w.jpg
-    alt: 
+    alt: |
+      Pixels 12
   - img: img/Pixels_13_300w.jpg
-    alt: 
+    alt: |
+      Pixels 13
   - img: img/Pixels_14_300w.jpg
-    alt: 
+    alt: |
+      Pixels 14
   - img: img/Pixels_15_300w.jpg
-    alt: 
+    alt: |
+      Pixels 15
   - img: img/Pixels_16_300w.jpg
-    alt: 
+    alt: |
+      Pixels 16
   - img: img/Pixels_17_300w.jpg
-    alt: 
+    alt: |
+      Pixels 17
   - img: img/Pixels_18_300w.jpg
-    alt: 
+    alt: |
+      Pixels 18
   - img: img/Pixels_19_300w.jpg
-    alt: 
+    alt: |
+      Pixels 19
   - img: img/Pixels_20_300w.jpg
+    alt: |
+      Pixels 20
