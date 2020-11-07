@@ -1,11 +1,12 @@
-<div class="container-fluid">
-<div class="text-center row">
-<div >
-<img src="img/Satellites_1500w.jpg" width="80%"
-     alt="Satellites, oil on paper, 90 cm x 70.5 cm (framed)"/>
-<div class="caption text-center">Satellites, oil on paper, 90 cm x 70.5 cm (framed)</div>
-</div>
-</div>
+<div class="container-fluid" class="header-img">
+     <div class="text-center row">
+          <div >
+               <img src="img/Satellites_1500w.jpg" width="80%"
+                    alt="Satellites, oil on paper, 90 cm x 70.5 cm (framed)"/>
+               <div class="caption text-center">Satellites, oil on paper, 90 cm x 70.5 cm (framed)
+               </div>
+          </div>
+     </div>
 </div>
 
 ## BIO
