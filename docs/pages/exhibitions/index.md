@@ -1,26 +1,28 @@
 ## NOW SHOWING:
 
-Lamella Mini Show 
-3rd - 30th August 2020 
-A selection of recent paintings from the Lamella Series. Opening on the 3rd August, 2020 at the new Dexter’s Coffee Shop, 1 George’s Place, Bath, BA2 4EN.
+
+Fronteer Art, Sheffield. 
+
 
 ### EXHIBITIONS
 
 #### 2020
 
-Bath School of Art and Design Alumni Exhibition, Sion Hill,Bath
+Bath School of Art and Design Alumni Exhibition, Sion Hill, Bath
 
 Prize Winner, The Art of Communication in the Commonwealth 2020, 44AD
 
-Material World, 44AD Artspace, Abbey Street,Bath
+Material World, 44AD Artspace, Abbey Street, Bath
 
 Monthly 44AD online shows, Alphabet; Between; Curiosity; Data; Enveloped; Flora; Gesture (Melissa selected this theme); Hybrid 
 
+Lamella Mini Show Dexter’s Coffee Shop, 1 George’s Place, Bath, BA2 4EN
+ 
 
 #### 2019
 
 Bath Art Prize Exhibition, 44AD Artspace, Abbey Street,Bath
-15 New Bond Street,Bath
+15 New Bond Street, Bath
 
 Poster, 44AD Artspace, Abbey Street, Bath
 
