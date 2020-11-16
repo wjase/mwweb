@@ -1,9 +1,3 @@
-## NOW SHOWING:
-
-
-Fronteer Art, Sheffield. 
-
-
 ### EXHIBITIONS
 
 #### 2020
@@ -17,6 +11,8 @@ Material World, 44AD Artspace, Abbey Street, Bath
 Monthly 44AD online shows, Alphabet; Between; Curiosity; Data; Enveloped; Flora; Gesture (Melissa selected this theme); Hybrid 
 
 Lamella Mini Show Dexter’s Coffee Shop, 1 George’s Place, Bath, BA2 4EN
+
+All Shall Pass, Fronteer Art, 18 Exchange Street Sheffield, S2 5TS
  
 
 #### 2019
@@ -31,7 +27,7 @@ Size Matters, 94-96 Walcot Street, Bath
 
 #### 2018 
 
-Trowbridge Arts Open Exhibition, Trowbridge, July – September 
+Trowbridge Arts Open Exhibition, Trowbridge, July - September 
 
 Twerton Mill Series, Museum of Bath at Work, Bath, May - October 
 
