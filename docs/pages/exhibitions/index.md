@@ -1,6 +1,6 @@
-### EXHIBITIONS
+# EXHIBITIONS
 
-#### 2020
+## 2020
 
 Bath School of Art and Design Alumni Exhibition, Sion Hill, Bath
 
@@ -15,7 +15,7 @@ Lamella Mini Show Dexter’s Coffee Shop, 1 George’s Place, Bath, BA2 4EN
 All Shall Pass, Fronteer Art, 18 Exchange Street Sheffield, S2 5TS
  
 
-#### 2019
+## 2019
 
 Bath Art Prize Exhibition, 44AD Artspace, Abbey Street,Bath
 15 New Bond Street, Bath
@@ -25,7 +25,7 @@ Poster, 44AD Artspace, Abbey Street, Bath
 Size Matters, 94-96 Walcot Street, Bath
 36 Exposures, Broad Street, Bath
 
-#### 2018 
+## 2018 
 
 Trowbridge Arts Open Exhibition, Trowbridge, July - September 
 
@@ -43,7 +43,7 @@ Deviation Street Exhibition and Magazine Launch, 44AD Artspace, Abbey Street, Ba
 
 Genetics and the People, Associates Show, 44AD Artspace, Abbey Street, Bath
 
-#### 2017 
+## 2017 
 
 Deck The Walls Christmas show, 44AD Artspace, Abbey Street, Bath 
 
@@ -64,7 +64,7 @@ Transformation, show with Andrew Temple Smith, 44AD Artspace, Abbey Street, Bath
 
 Law of Identity, 44AD Artspace, Abbey Street, Bath
 
-#### 2016 
+## 2016 
 
 Find Another Bath (Opens November 15th), 44AD Artspace, Abbey Street, Bath 
 
@@ -72,7 +72,7 @@ Where Is Your Humanity, 44AD Artspace, Abbey Street, Bath
 
 TimeFrame, FAB16, Walcot Street, Bath (Curator and exhibitor) 
  
-#### 2015 
+## 2015 
 
 Royal West of England Academy, 163rd Open Exhibition 
 
@@ -82,7 +82,7 @@ Love and Death, Walcot Chapel, Bath
 
 48 Hour Project: Science, 44AD Artspace, Abbey Street, Bath 
  
-#### 2014 
+## 2014 
 
 Deck the Walls, 44AD Artspace, Abbey Street, Bath 
 
@@ -106,7 +106,7 @@ Souvenir, Second Mouth, pop-up gallery, 39 Brunel Plaza, Swindon
 
 Echo:Re-Echo, 44AD, 7B Lower Borough Walls, Bath, BA1 1QR 
  
-#### 2013 
+## 2013 
 
 48 Hour Project: If Something Happens Often Enough I Will Eventually Be Persuaded, Bath 
 
@@ -116,7 +116,7 @@ Beyond Memory, (Exhibitor and Co-Curator), Fringe Arts Bath: 3 York Street, Bath
 
 Deck the Walls: 12" x 12" Christmas show: 44AD, Bath 
 
-#### 2012 
+## 2012 
 
 Interim Show, Private View, Bath School of Art and Design, Sion Hill, Bath 
 
