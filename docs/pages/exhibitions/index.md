@@ -1,4 +1,4 @@
-# EXHIBITIONS
+# EXHIBITIONS 
 
 ## 2020
 
@@ -23,7 +23,11 @@ Bath Art Prize Exhibition, 44AD Artspace, Abbey Street,Bath
 Poster, 44AD Artspace, Abbey Street, Bath
 
 Size Matters, 94-96 Walcot Street, Bath
+
 36 Exposures, Broad Street, Bath
+
+Self, 15 New Bond Street, Bath
+
 
 ## 2018 
 
