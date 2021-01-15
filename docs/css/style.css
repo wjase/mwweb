@@ -66,6 +66,9 @@ h1 {
 img {
   margin: 1em;
   margin-bottom: 0.2em;
+  max-width:100%; 
+  min-width:100%; 
+  height:auto;
 }
 
 #app {

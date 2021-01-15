@@ -1,11 +1,10 @@
 <div class="container-fluid" class="header-img">
      <div class="text-center row">
-          <div >
-               <img class="asyncImage" src="img/Satellites_sm.jpg" width="80%"
-                    alt="Satellites, oil on paper, 90 cm x 70.5 cm (framed)"/>
-               <div class="caption text-center">Satellites, oil on paper, 90 cm x 70.5 cm (framed)
-               </div>
+          <div style='width:80%'>
+               <img class="asyncImage" src="img/Satellites_sm.jpg" alt="Satellites, oil on paper, 90 cm x 70.5 cm (framed)"/>
           </div>
+          <div class="caption text-center">Satellites, oil on paper, 90 cm x 70.5 cm (framed)
+               </div>
      </div>
 </div>
 

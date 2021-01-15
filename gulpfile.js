@@ -48,6 +48,8 @@ function modules() {
     .pipe(gulp.dest(pubRoot+'/js-yaml'));
     var imagesloaded = gulp.src('./node_modules/imagesloaded/imagesloaded.pkgd.min.js')
     .pipe(gulp.dest(pubRoot+'/imagesloaded'));
+    var masonry = gulp.src('./node_modules/masonry-layout/dist/**/*')
+    .pipe(gulp.dest(pubRoot+'/masonry-layout'));
     
   // Vanilla Router
     var router = gulp.src('./node_modules/vanilla-router/dist/**/*')
