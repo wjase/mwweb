@@ -64,7 +64,7 @@
       <div class="grid-sizer col-xs-12"></div>
       {{#each images}}
       <div class="justify-content-center grid-item {{#if wide}}col-xs-12 col-sm-8 col-md-6{{else}}col-xs-12 col-sm-6 col-md-4{{/if}}">
-        <img src="{{../gallery_path}}/{{img}}" alt="{{alt}}">
+        <img class="asyncImage" src="{{../gallery_path}}/{{img}}" alt="{{alt}}">
         <div class="caption">{{alt}}</div>
       </div>
       {{/each}}

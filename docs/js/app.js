@@ -9,12 +9,15 @@ jQuery(function () {
 
     const loadAsyncImages = () => {
 
-        console.log("load async images")
         var objects = $('.asyncImage')
         objects.each(function() {
             const eachImage = $(this)
-            console.dir(this)
-            console.dir({'img':eachImage.attr('src')})
+            const imgUrl = eachImage.attr('src')
+
+            // only do the async thing if its a small version
+            if(!imgUrl.endsWith('_sm.jpg')){
+                return
+            }
             // Start loading image
             const img = new Image();
             const lgUrl = eachImage.attr('src').replace('_sm','_lg')
