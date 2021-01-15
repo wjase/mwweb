@@ -29,7 +29,7 @@
         "url": "https://github.com/StartBootstrap/startbootstrap-bare.git"
     },
     "dependencies": {
-        "axios": "^0.20.0",
+        "axios": "^0.21.1",
         "bootstrap": "4.5.0",
         "gulp-cli": "^2.3.0",
         "handlebars": "^4.7.6",
