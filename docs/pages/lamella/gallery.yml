@@ -5,7 +5,7 @@
       Oil on Paper,framed
       40 cm x 52.5 cm
     price: 505
-    sold: false  
+    status: forsale  
   - img: img/s4w_microcosm_sm.jpg  
     wide: true
     alt: |
@@ -13,14 +13,14 @@
       Oil on panel
       30 cm x 40 cm
     price: 440
-    sold: false
+    status: forsale
   - img: img/s4w_tendril_sm.jpg
     alt: |
       Tendril
       Oil on panel
       40 cm x 30 cm
     price: 440
-    sold: false  
+    status: forsale  
   - img: img/s4w_magnetism_sm.jpg
     wide: true
     alt: |
@@ -28,39 +28,39 @@
       Oil on panel
       30 cm x 40 cm
     price: 440
-    sold: false  
+    status: forsale  
   - img: img/s4w_nymph_sm.jpg
     alt: |
       Nymph
       Oil on panel
       40 cm x 30 cm
     price: 440
-    sold: false  
+    status: forsale  
   - img: img/s4w_mantilla_under_sm.jpg
     alt: |
       Mantilla
       Oil on panel
       40 cm x 30 cm
     price: 440
-    sold: false  
+    status: forsale  
   - img: img/s4w_sylph_sm.jpg
     alt: |
       Sylph
       Oil on panel
       40 cm x 30 cm
     price: 440
-    sold: false  
+    status: forsale  
   - img: img/december_sm.jpg
     alt: |
       December
       Oil on unstretched canvas
       30 cm x 30 cm, unframed
     price: 340
-    sold: false  
+    status: forsale  
   - img: img\untitled_sm.jpg
     alt: |
       Untitled
       Oil on paper
       tbd cm x tbd cm  
     price: 999
-    sold: false  
+    status: forsale  
