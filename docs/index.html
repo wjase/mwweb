@@ -65,7 +65,20 @@
       {{#each images}}
       <div class="justify-content-center grid-item {{#if wide}}col-xs-12 col-sm-8 col-md-6{{else}}col-xs-12 col-sm-6 col-md-4{{/if}}">
         <img class="asyncImage" src="{{../gallery_path}}/{{img}}" alt="{{alt}}">
-        <div class="caption">{{alt}}</div>
+        <div class="row">
+          <div class="col-md-6 col-xs-12 caption">{{alt}}</div>
+          {{#if sold}}
+          <div class="price col-md-6 col-xs-12 ">SOLD</div>
+          {{else}}
+            {{#if pending}}
+            <div class="price col-md-6 col-xs-12 ">SALE PENDING</div>
+            {{else}}
+            <div class="price col-md-6 col-xs-12 ">&pound;{{price}}</div>
+            {{/if}}
+          {{/if}}
+          
+        </div>
+
       </div>
       {{/each}}
     </div>

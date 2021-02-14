@@ -50,7 +50,11 @@ jQuery(function () {
                 var galleryDoc = jsyaml.load(galleryYML);
                 var context = {
                     gallery_path: gallery_path,
-                    images: galleryDoc
+                    images: galleryDoc.map(i=>{
+                        i.sold=i.status=='sold';
+                        i.pending=i.status=='pending';
+                        return i;
+                    })
                 };
 
                 gallery.html(gallery_template(context))

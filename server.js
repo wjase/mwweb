@@ -1,6 +1,6 @@
 //step 1) require the modules we need
-var
-http = require('http'),
+console.dir("about to start server");
+var http = require('http'),
 path = require('path'),
 fs = require('fs');
 
