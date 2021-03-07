@@ -70,4 +70,102 @@
       Oil on paper, framed
       40 cm x 52.5 cm
     price: 345
-    status: forsale       
+    status: forsale  
+  - img: img/nereid_sm.jpg
+    alt: |
+      Nereid
+      Oil on panel
+      40 cm x 40 cm
+    price: 320
+    status: forsale  
+  - img: img/maralinga_sm.jpg
+    alt: |
+      Maralinga
+      Oil on panel
+      40 cm x 40 cm
+    price: 320
+    status: forsale  
+  - img: img/calypso_sm.jpg
+    alt: |
+      Calypso
+      Oil on panel
+      30 cm x 30 cm
+    price: 280
+    status: forsale  
+  - img: img/telos_sm.jpg
+    alt: |
+      Telos
+      Oil on paper, unframed
+      30.3 cm x 21.6 cm
+    price: 215
+    status: forsale  
+  - img: img/capriole_sm.jpg
+    alt: |
+      Capriole
+      Oil on panel
+      45.5 cm x 59 cm
+    price: 395
+    status: forsale  
+  - img: img/skirmish_sm.jpg
+    alt: |
+      Skirmish
+      Oil on paper, unframed
+      30.3 cm x 21.6 cm
+    price: 215
+    status: forsale  
+  - img: img/labyrinth_sm.jpg
+    alt: |
+      Labyrinth
+      Oil on paper, unframed
+      30.3 cm x 21.6 cm
+    price: 215
+    status: forsale 
+  - img: img/spindrift_sm.jpg
+    alt: |
+      Spindrift
+      Oil on canvas
+      140 cm x 110 cm
+    price: 945
+    status: forsale  
+  - img: img/neologism_sm.jpg
+    alt: |
+      Neologism
+      Oil on canvas
+      62.5 cm x 53 cm
+    price: 395
+    status: forsale  
+  - img: img/shantung_sm.jpg
+    alt: |
+      Shantung
+      Oil on paper, unframed
+      30.3 cm x 21.6 cm
+    price: 215
+    status: forsale 
+  - img: img/allegretto_sm.jpg
+    alt: |
+      Allegretto
+      Oil on paper, unframed
+      30.3 cm x 21.6 cm
+    price: 215
+    status: forsale  
+  - img: img/rapture_sm.jpg
+    alt: |
+      Rapture
+      Oil on canvas
+      60 cm x 80 cm
+    price: 490
+    status: forsale  
+  - img: img/cimmerian_sm.jpg
+    alt: |
+      Cimmerian
+      Oil on panel
+      30 cm x 30 cm
+    price: 280
+    status: forsale  
+  - img: img/undertow_sm.jpg
+    alt: |
+      Undertow
+      Oil on panel
+      40 cm x 30 cm
+    price: 300
+    status: forsale  
