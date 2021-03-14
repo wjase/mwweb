@@ -76,6 +76,11 @@
             <div class="price col-md-6 col-xs-12 ">&pound;{{price}}</div>
             {{/if}}
           {{/if}}
+          {{#if link}}
+            <div class="price col-md-12 col-xs-12 "><a href="{{link}}">View on Saatchi</a></div>
+          {{else}}
+            <div class="price col-md-12 col-xs-12 "><a href="{{link}}">View/Buy on Saatchi</a></div>
+          {{/if}}
           
         </div>
 
