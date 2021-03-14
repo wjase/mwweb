@@ -3,8 +3,8 @@ body {
   font-style: normal;
 }
 
-h1 {
-  font-size: 60px;
+.brand h1 {
+  font-size: 1.5em;
   font-style: normal;
   font-weight: 300;
 }
@@ -91,4 +91,13 @@ img {
 
 .header-img{
   margin-bottom: 2em;
+}
+
+.saatchibtn{
+  margin-top: 0.3em;
+}
+
+h2{
+  text-align: center;
+  margin:1em;
 }
