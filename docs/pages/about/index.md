@@ -1,3 +1,5 @@
+## About
+
 <div class="container-fluid" class="header-img">
      <div class="text-center row">
           <div style='width:80%'>
@@ -8,7 +10,7 @@
      </div>
 </div>
 
-## BIO
+## Bio
 
 Melissa is a painter and art educator, with a Bachelor of Art Education from NSW University Sydney, and an MFA from Bath Spa University, UK. and she currently teaches Painting and Drawing at Bath College. 
 

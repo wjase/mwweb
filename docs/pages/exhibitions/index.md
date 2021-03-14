@@ -1,4 +1,4 @@
-# EXHIBITIONS 
+# Exhibitions 
 
 ## 2020
 
