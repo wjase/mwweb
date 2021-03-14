@@ -51,6 +51,7 @@ jQuery(function () {
                 var context = {
                     gallery_path: gallery_path,
                     images: galleryDoc.map(i=>{
+                        i.hasLink='link' in i;
                         i.sold=i.status=='sold';
                         i.pending=i.status=='pending';
                         return i;

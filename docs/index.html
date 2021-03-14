@@ -75,10 +75,13 @@
             <div class="price col-md-6 col-xs-12 ">SALE PENDING</div>
             {{/if}}
           {{/if}}
-          {{#if link}}
-            <div class="col-md-12 col-xs-12 caption saatchibtn"><a class="btn btn-outline-primary btn-sm" href="{{link}}">View on Saatchi</a></div>
-          {{else}}
-            <div class="col-md-12 col-xs-12 caption saatchibtn"><a class="btn btn-outline-primary btn-sm" href="{{link}}">View/Buy on Saatchi</a></div>
+          {{#if hasLink}}
+              {{#if sold}}
+                <div class="col-md-12 col-xs-12 caption saatchibtn"><a class="btn btn-outline-primary btn-sm" href="{{link}}">View on Saatchi</a></div>
+              {{else}}
+                <div class="col-md-12 col-xs-12 caption saatchibtn"><a class="btn btn-outline-primary btn-sm" href="{{link}}">View/Buy on Saatchi</a></div>
+              {{/if}}
+
           {{/if}}
           
         </div>
