@@ -1,3 +1,4 @@
+@import url("https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css");
 body {
   font-family: calibri;
   font-style: normal;
@@ -63,7 +64,35 @@ body {
   max-height: 100%;
 }
 
-img {
+#social-links{
+  display: block;
+float: right;
+width:20%;
+}
+
+.icon-block span{
+  font-size: smaller;
+  margin-left: 0.2em;
+  margin-right: 0.7em;
+}
+
+.inset {
+margin-left: 20%;
+margin-right: 20%;
+}
+.icon-block img{
+  height:1.1em;
+  width:1.1em;
+}
+
+.icon-block svg{
+  height:1.1em;
+  width:1.1em;
+  object-fit:scale-down;
+  overflow: hidden;  
+
+}
+.container-fluid img {
   margin: 1em;
   margin-bottom: 0.2em;
   max-width:100%; 
@@ -100,4 +129,9 @@ img {
 h2{
   text-align: center;
   margin:1em;
+}
+
+.icon-block{
+  float:left;
+  width:100%;
 }
