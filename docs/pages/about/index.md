@@ -27,8 +27,6 @@ https://deviationstreetmagazine.com/into-abstraction-kate-burbridge-interview-wi
 
 [Somerset Art Works](https://somersetartworks.org.uk/artists/melissa-temple-smith/)
 
-[ReCultivate - The Organ](https://organthing.com/2021/01/05/cultivate-presents-recultivate-an-on-line-art-exhibition/)
-
 [Spike Island Associates](https://www.spikeisland.org.uk/our-community/spike-island-associates/)
 
 [44AD artspace](http://www.44ad.net/associate-artists.html)
