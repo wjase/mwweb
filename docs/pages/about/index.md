@@ -12,7 +12,7 @@
 
 ## Bio
 
-Melissa is a painter and art educator, with a Bachelor of Art Education from NSW University Sydney, and an MFA from Bath Spa University, UK. and she currently teaches Painting and Drawing at Bath College. 
+Melissa is a painter and art educator, with a Bachelor of Art Education from NSW University, Sydney, and an MFA from Bath Spa University, UK. and she currently teaches Painting and Drawing at Bath College. 
 
 Mark-making, and the materiality of the paint itself, have always been central to her painting practice, exploring the boundaries of control and chance. Her work has recently evolved from expressionist figurative paintings to intensely coloured gestural abstraction. 
 
