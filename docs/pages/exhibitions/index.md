@@ -1,5 +1,12 @@
 # Exhibitions 
 
+## 2021
+
+Currently showing in http://www.44ad.net/associate-show-2021.html  
+
+Jan/Feb Recultivate, online show via https://organthing.com
+
+
 ## 2020
 
 Bath School of Art and Design Alumni Exhibition, Sion Hill, Bath
