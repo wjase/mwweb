@@ -22,14 +22,15 @@ Melissa is a 44AD Associate artist, and she co-curated Laura’s Place, in 2014.
 
 <div class="text-center">
 
-[Deviation Street Interview](
-https://deviationstreetmagazine.com/into-abstraction-kate-burbridge-interview-with-melissa-wraxall/)
+[Deviation Street Interview](https://deviationstreetmagazine.com/into-abstraction-kate-burbridge-interview-with-melissa-wraxall/)
 
 [Somerset Art Works](https://somersetartworks.org.uk/artists/melissa-temple-smith/)
 
 [Spike Island Associates](https://www.spikeisland.org.uk/our-community/spike-island-associates/)
 
 [44AD artspace](http://www.44ad.net/associate-artists.html)
+
+[44AD artspace "I Don't Have A Favourite" 3D online show](http://www.44ad.net/associate-show-2021.html)
 
 </div>
 
