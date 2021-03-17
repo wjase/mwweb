@@ -99,7 +99,8 @@ margin-right: 20%;
 }
 
 img.nomargin {
-  margin: 0px;
+  margin-left: 0px;
+  margin-right: 0px;
 }
 
 #app {
