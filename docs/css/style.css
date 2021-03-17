@@ -108,6 +108,7 @@ img.nomargin {
 }
 
 .caption {
+  padding-top:0.5em;
   padding-left: 2.5em;
   /* margin-right: 30%; */
   font-size: 80%;
