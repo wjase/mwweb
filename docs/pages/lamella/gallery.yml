@@ -37,7 +37,8 @@
       Oil on panel
       40 cm x 30 cm
     price: 300
-    status: forsale  
+    status: forsale 
+    link: https://www.saatchiart.com/art/Painting-Nymph/1047425/8276424/view
   - img: img/s4w_mantilla_under_sm.jpg
     alt: |
       Mantilla
@@ -177,5 +178,6 @@
       Oil on panel
       40 cm x 30 cm
     price: 300
-    status: forsale  
+    status: forsale
+    link: https://www.saatchiart.com/art/Painting-Lamella-ii/1047425/7937004/view  
 
