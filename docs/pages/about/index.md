@@ -1,5 +1,3 @@
-## About
-
 <div class="container-fluid" class="header-img">
      <div class="text-center row">
           <div >
