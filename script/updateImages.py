@@ -13,18 +13,20 @@ def resize(filename,suffix,width,height):
     if re.search(r'_(md|sm)$',fileNameBase) is not None :
         return
     newFile = re.sub(r'_(\d+w|lg)$','',fileNameBase)+suffix+extension
-    cmd = 'magick %s -resize %dx%d %s' % (filename, width, height, newFile)
-    print(cmd)
-    subprocess.call(["magick", filename, "-resize", '%dx%d'%(width,height), newFile ])
+    if not os.path.exists(newFile):
+        cmd = 'magick %s -resize %dx%d %s' % (filename, width, height, newFile)
+        print(cmd)
+        subprocess.call(["magick", filename, "-resize", '%dx%d'%(width,height), newFile ])
 
 
 directory = os.path.join(os.getcwd(), sys.argv[1])
 for filename in os.listdir(directory):
 
     if filename.endswith(".jpg") or filename.endswith(".png"):
-        filename = os.path.join(directory, filename)
-        resize(filename,"_sm",300,300)
-        resize(filename,"_md",600,600)
+        if "_lg" in filename:
+            filename = os.path.join(directory, filename)
+            resize(filename,"_sm",300,300)
+            resize(filename,"_md",600,600)
         
     else:
         continue
