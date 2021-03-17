@@ -98,6 +98,10 @@ margin-right: 20%;
   height:auto;
 }
 
+img.nomargin {
+  margin: 0px;
+}
+
 #app {
   text-align: justify;
 }
