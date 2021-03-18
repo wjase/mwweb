@@ -75,8 +75,8 @@ body {
 }
 
 .inset {
-margin-left: 20%;
-margin-right: 20%;
+margin-left: 5%;
+margin-right: 5%;
 }
 .icon-block img{
   height:1.1em;
@@ -99,7 +99,8 @@ margin-right: 20%;
 }
 
 img.nomargin {
-  margin: 0px;
+  margin-left: 0px;
+  margin-right: 0px;
 }
 
 #app {
@@ -107,6 +108,7 @@ img.nomargin {
 }
 
 .caption {
+  padding-top:0.5em;
   padding-left: 2.5em;
   /* margin-right: 30%; */
   font-size: 80%;
