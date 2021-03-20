@@ -8,7 +8,7 @@
      </div>
 </div>
 
-## Statement
+# Statement
 
 Intensely coloured expressionist abstraction is my response to the strange new post-truth, pandemic-stricken world we now live in. Making these paintings and drawings, represents for me, a kind of conceptual or imaginative freedom and a sense of hope in the midst of necessary limits to our physical freedom.
 
@@ -21,7 +21,7 @@ The titles of these paintings are free associations derived from visual elements
 
 ©2021 Melissa Wraxall 
 
-## Bio
+# Bio
 
 Melissa is a painter and art educator, with a Bachelor of Art Education from NSW University, Sydney, and an MFA from Bath Spa University, UK and she currently teaches Painting and Drawing at Bath College. 
 
