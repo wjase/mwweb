@@ -53,13 +53,6 @@
       40 cm x 30 cm
     price: 300
     status: forsale  
-  - img: img\aurora_sm.jpg
-    alt: |
-      Aurora
-      Oil on paper
-      30 cm x 21 cm  
-    price: 150
-    status: forsale
   - img: img/heliograph_sm.jpg
     alt: |
       Heliograph
