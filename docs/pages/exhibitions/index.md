@@ -7,7 +7,7 @@ and in "In Pursuit of Spring", SAW Members Show, Black Swan Arts, Frome.
 
 # 2021
 
-[ReCultivate](https://organthing.com/2021/01/05/cultivate-presents-recultivate-an-on-line-art-exhibition/)
+Recultivate Online Show, curated by Sean Worrall and Emma Harvey [ReCultivate](https://organthing.com/2021/01/05/cultivate-presents-recultivate-an-on-line-art-exhibition/)
 
 
 # 2020
