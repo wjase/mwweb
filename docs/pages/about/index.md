@@ -43,6 +43,8 @@ Melissa is a 44AD Associate artist, and she co-curated Laura’s Place, in 2014.
 
 [44AD artspace](http://www.44ad.net/associate-artists.html)
 
+[ReCultivate](https://organthing.com/2021/01/05/cultivate-presents-recultivate-an-on-line-art-exhibition/)
+
 [Deviation Street Interview](https://deviationstreetmagazine.com/into-abstraction-kate-burbridge-interview-with-melissa-wraxall/)
 
 </div>
