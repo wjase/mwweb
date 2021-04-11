@@ -7,7 +7,7 @@ and in "In Pursuit of Spring", SAW Members Show, Black Swan Arts, Frome.
 
 # 2021
 
-Recultivate, online show via https://organthing.com
+[ReCultivate](https://organthing.com/2021/01/05/cultivate-presents-recultivate-an-on-line-art-exhibition/)
 
 
 # 2020
