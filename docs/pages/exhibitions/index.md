@@ -5,6 +5,7 @@ Coming Up:
 Next(Au Suivant), Cultivate Gallery Online show, at www.organthing.com Opening Night and going live: 8pm, Tuesday April 20th, 2021.
 
 Currently Showing: 
+
 [44AD artspace "I Don't Have A Favourite" 3D online show](http://www.44ad.net/associate-show-2021.html)
 
 "In Pursuit of Spring", SAW Members Show, Black Swan Arts, Frome.
