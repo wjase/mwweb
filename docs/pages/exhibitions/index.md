@@ -2,9 +2,11 @@
 
 Coming Up:
 
-Next(Au Suivant), Cultivate Gallery Online show, at www.organthing.com Opening Night and going live: 8pm, Tuesday April 20th, 2021.
+Newlyn Society of Artists, "Looking Forward" Opening Saturday 19th June, 2021.Tremenheere Gallery, Tremenheere Sculpture Gardens, Nr Gulval, Penzance, TR20 8YL. Closes Sunday 11th July, 2021
 
 Currently Showing: 
+
+[Cultivate Gallery Next(Au Suivant) online show](https://organthing.com/2021/04/20/cultivate-presents-next-au-suivant-an-on-line-art-exhibition/)
 
 [44AD artspace "I Don't Have A Favourite" 3D online show](http://www.44ad.net/associate-show-2021.html)
 
