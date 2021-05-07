@@ -53,20 +53,6 @@
       40 cm x 30 cm
     price: 300
     status: forsale  
-  - img: img/december_sm.jpg
-    alt: |
-      December
-      Oil on unstretched canvas
-      30 cm x 30 cm, unframed
-    price: 245
-    status: forsale  
-  - img: img\aurora_sm.jpg
-    alt: |
-      Aurora
-      Oil on paper
-      tbd cm x tbd cm  
-    price: 150
-    status: forsale
   - img: img/heliograph_sm.jpg
     alt: |
       Heliograph
