@@ -103,6 +103,27 @@ jQuery(function () {
         loadAsyncImages();
     };
 
+    const fetchPage = (slug) =>{
+        return function() {
+            appContainer.html("loading...");
+
+            axios.get('pages/' + slug + '/index.md')
+                .then(response => {
+                    const pageMarkdown = response.data;
+                    const adjustedLinks = pageMarkdown.replace(/(data-src|src)="([^:>"]+)"/g, '$1="pages/' + slug + '/$2"')
+                    rendered = md.render(adjustedLinks)
+                    appContainer.html(rendered);
+                    rewireLinks(appContainer);
+
+                    var gallery = $('.gallery')
+                    if (gallery.length) {
+                        var src = gallery.attr("data-src")
+                        loadGallery(src, gallery)
+                    }
+                })
+        }
+    };
+
     const fetchMenu = (nav) => {
         axios.get('pages/menu.yaml')
             .then(response => {
@@ -115,24 +136,7 @@ jQuery(function () {
                 )
 
                 doc.forEach(navItem => {
-                    router.add('/' + navItem.slug, () => {
-                        appContainer.html("loading...");
-
-                        axios.get('pages/' + navItem.slug + '/index.md')
-                            .then(response => {
-                                const pageMarkdown = response.data;
-                                const adjustedLinks = pageMarkdown.replace(/(data-src|src)="([^:>"]+)"/g, '$1="pages/' + navItem.slug + '/$2"')
-                                rendered = md.render(adjustedLinks)
-                                appContainer.html(rendered);
-                                rewireLinks(appContainer);
-
-                                var gallery = $('.gallery')
-                                if (gallery.length) {
-                                    var src = gallery.attr("data-src")
-                                    loadGallery(src, gallery)
-                                }
-                            })
-                    });
+                    router.add('/' + navItem.slug, fetchPage(navItem.slug));
                 });
 
                 rewireLinks(navContainer);
@@ -144,6 +148,7 @@ jQuery(function () {
     };
 
     fetchMenu(navContainer);
+    router.add('/privacy', fetchPage('privacy'));
 
     // Highlight Active Menu on Refresh/Page Reload
     const link = $(`a[href$='${window.location.pathname}']`);

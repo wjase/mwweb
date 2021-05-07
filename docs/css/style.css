@@ -47,6 +47,9 @@ body {
 /* .grid-sizer, .grid-item {
 } */
 
+.error{
+  color: red;
+}
 .grid-item {
   margin-bottom: 10px;
 }
