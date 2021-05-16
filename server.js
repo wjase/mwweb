@@ -47,10 +47,18 @@ function requestHandler(req, res) {
 	fileName = req.url,
 	localFolder = __dirname + '/docs/',
 	page404 = localFolder + '404.html';
+	console.dir({"url":req.url});
 
 	if (fileName=='/'){
 		fileName = 'index.html'
 	}
+	
+	if(fileName=='/contactform'){
+		res.writeHead(200, {'Content-Type': 'text/html'});
+		res.end('');
+		return;
+	}
+
 
 	//call our helper function
 	//pass in the path to the file we want,
