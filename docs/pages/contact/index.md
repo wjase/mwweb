@@ -53,17 +53,14 @@
                         </div>
                     </div>
                 </div>
-                <div class="clearfix" style="min-height: 1em;"> &nbsp; </div>  
-                <div class="row">
-                    <!--Grid column-->
-                    <div class="col-md-12">
-                        <div class="md-form">
-                            <input type="checkbox" class="form-control form-check-input" name="updates" id="updates" value="1">
-                            <label for="updates" class="form-check-label">Notify me about new updates</label>
-                        </div>
-                    </div>
-                </div>  
+                <div class="sm-form">
+                    <input 
+                    type="checkbox"  name="updates" id="updates" value="1">
+                    <label 
+                    for="updates" >Notify me about new updates</label>
+                </div>
                 <div class="clearfix" style="min-height: 1em;margin-bottom:1em;"> &nbsp; </div>  
+                <div class="clearfix" style="min-height: 1em;"> &nbsp; </div>  
                 <div class="row">
                     <!--Grid column-->
                     <div class="col-md-12">

@@ -124,7 +124,6 @@ img.nomargin {
   padding-right: 0px;
 }
 
-
 .header-img{
   margin-bottom: 2em;
 }
@@ -142,3 +141,15 @@ h2{
   float:left;
   width:100%;
 }
+
+input[type=checkbox]
+{
+  /* Double-sized Checkboxes */
+  -ms-transform: scale(1.5); /* IE */
+  -moz-transform: scale(1.5); /* FF */
+  -webkit-transform: scale(1.5); /* Safari and Chrome */
+  -o-transform: scale(1.5); /* Opera */
+  padding: .375rem .75rem;
+  margin-right: 0.5em;
+}
+
