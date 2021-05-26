@@ -4,7 +4,8 @@ Coming Up:
 
 Newlyn Society of Artists' pop-up show, "Watch This Space", Community Room, Jubilee Pool, Penzance, TR18 4FF, 12th to 18th June, 2021
 
-Newlyn Society of Artists, "Looking Forward" Opening Saturday 19th June, 2021.Tremenheere Gallery, Tremenheere Sculpture Gardens, Nr Gulval, Penzance, TR20 8YL. Closes Sunday 11th July, 2021
+Newlyn Society of Artists, "Looking Forward" Opening Saturday 19th June, 2021.
+Tremenheere Gallery, Tremenheere Sculpture Gardens, Nr Gulval, Penzance, TR20 8YL. Closes Sunday 11th July, 2021
 
 
 Currently Showing: 
