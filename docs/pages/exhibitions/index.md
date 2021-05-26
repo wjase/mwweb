@@ -14,7 +14,7 @@ Currently Showing:
 
 [44AD artspace "I Don't Have A Favourite" 3D online show](http://www.44ad.net/associate-show-2021.html)
 
-"In Pursuit of Spring", SAW Members Show, Black Swan Arts, Frome.
+"In Pursuit of Spring", SAW Members Show, Black Swan Arts, Frome. Open now, in real life, until 27th June 2021.
 
 
 # 2021
