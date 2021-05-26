@@ -12,13 +12,13 @@ Tremenheere Gallery, Tremenheere Sculpture Gardens, Nr Gulval, Penzance, TR20 8Y
 
 Currently Showing: 
 
-[Cultivate Gallery Next(Au Suivant) online show](https://organthing.com/2021/04/20/cultivate-presents-next-au-suivant-an-on-line-art-exhibition/)
+[Cultivate Gallery "Next(Au Suivant)" online show, curated by Sean Worrall and Emma Harvey](https://organthing.com/2021/04/20/cultivate-presents-next-au-suivant-an-on-line-art-exhibition/)
 
-[44AD artspace "I Don't Have A Favourite" 3D online show](http://www.44ad.net/associate-show-2021.html)
+[44AD artspace "I Don't Have A Favourite" 3D online show, curated by Katie O'Brien](http://www.44ad.net/associate-show-2021.html)
 
 "In Pursuit of Spring", SAW Members Show, Black Swan Arts, Frome. Open now, in real life, until 27th June 2021.
 
-Recultivate Online Show, curated by Sean Worrall and Emma Harvey [ReCultivate](https://organthing.com/2021/01/05/cultivate-presents-recultivate-an-on-line-art-exhibition/)
+ [Cultivate Gallery "ReCultivate" online show, curated by Sean Worrall and Emma Harvey](https://organthing.com/2021/01/05/cultivate-presents-recultivate-an-on-line-art-exhibition/)
 
 
 # 2020
