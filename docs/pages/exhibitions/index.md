@@ -1,5 +1,7 @@
 # Exhibitions 
 
+# 2021
+
 Coming Up:
 
 Newlyn Society of Artists' pop-up show, "Watch This Space", Community Room, Jubilee Pool, Penzance, TR18 4FF, 12th to 18th June, 2021
@@ -15,9 +17,6 @@ Currently Showing:
 [44AD artspace "I Don't Have A Favourite" 3D online show](http://www.44ad.net/associate-show-2021.html)
 
 "In Pursuit of Spring", SAW Members Show, Black Swan Arts, Frome. Open now, in real life, until 27th June 2021.
-
-
-# 2021
 
 Recultivate Online Show, curated by Sean Worrall and Emma Harvey [ReCultivate](https://organthing.com/2021/01/05/cultivate-presents-recultivate-an-on-line-art-exhibition/)
 
