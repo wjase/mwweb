@@ -84,6 +84,8 @@ jQuery(function () {
 
     const rewireLinks = (container) => {
         $(container).find('a').on('click', (event) => {
+            const href = target.attr('href');
+
             // Block browser page load
             event.preventDefault();
 
@@ -93,7 +95,6 @@ jQuery(function () {
             target.addClass('active');
 
             // Navigate to clicked url
-            const href = target.attr('href');
             const path = href.substr(href.lastIndexOf('/'));
             if (path == "") {
                 path = "/about";
@@ -113,7 +114,6 @@ jQuery(function () {
                     const adjustedLinks = pageMarkdown.replace(/(data-src|src)="([^:>"]+)"/g, '$1="pages/' + slug + '/$2"')
                     rendered = md.render(adjustedLinks)
                     appContainer.html(rendered);
-                    rewireLinks(appContainer);
 
                     var gallery = $('.gallery')
                     if (gallery.length) {
