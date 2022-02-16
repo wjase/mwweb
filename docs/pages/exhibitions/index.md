@@ -6,10 +6,10 @@ Memory Papers, Associates Show, 44Ad Artspace, Abbey Street, Bath
 
 Coming up:
 
-Newlyn Society of Artists, "Memory" 
-Tremenheere Gallery, Tremenheere Sculpture Gardens, Nr Gulval, Penzance, TR20 8YL.Memory, 
+Hope and Humanity, 44AD Artspace, Abbey Street, Bath. Open 4th to 14th March 2022. PV Thursday 3rd March 6pm - 8pm.
 
-Hope and Humanity, 44AD Artspace, Abbey Street, Bath
+Newlyn Society of Artists, "Memory" 
+Tremenheere Gallery, Tremenheere Sculpture Gardens, Nr Gulval, Penzance, TR20 8YL. Open 9th April to 1st May 2022. 
 
 # 2021
 
