@@ -2,7 +2,7 @@
 
 # 2022
 
-Memory Papers, Associates Show, 44Ad Artspace, Abbey Street, Bath
+Memory Papers, Associates Show, 44AD Artspace, Abbey Street, Bath
 
 Coming up:
 
