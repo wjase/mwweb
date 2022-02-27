@@ -1,16 +1,27 @@
 # Exhibitions 
 
+# 2022
+
+Memory Papers, Associates Show, 44AD Artspace, Abbey Street, Bath
+
+Coming up:
+
+Hope and Humanity, 44AD Artspace, Abbey Street, Bath. Open 4th to 14th March 2022. PV Thursday 3rd March 6pm - 8pm.
+
+Newlyn Society of Artists, "Memory" 
+Tremenheere Gallery, Tremenheere Sculpture Gardens, Nr Gulval, Penzance, TR20 8YL. Open 9th April to 1st May 2022. 
+
 # 2021
 
-Coming Up:
+Open Exhibition, The Pound Arts Centre, Pound Pill, Corsham, SN139HX
 
-Newlyn Society of Artists' pop-up show, "Watch This Space", Community Room, Jubilee Pool, Penzance, TR18 4FF, 12th to 18th June, 2021
+Newlyn Society of Artists, "Past Present Future" 
+Tremenheere Gallery, Tremenheere Sculpture Gardens, Nr Gulval, Penzance, TR20 8YL.
 
-Newlyn Society of Artists, "Looking Forward" Opening Saturday 19th June, 2021.
-Tremenheere Gallery, Tremenheere Sculpture Gardens, Nr Gulval, Penzance, TR20 8YL. Closes Sunday 11th July, 2021
+Newlyn Society of Artists' pop-up show, "Watch This Space", Community Room, Jubilee Pool, Penzance, TR18 4FF
 
-
-Currently Showing: 
+Newlyn Society of Artists, "Looking Forward" 
+Tremenheere Gallery, Tremenheere Sculpture Gardens, Nr Gulval, Penzance, TR20 8YL. 
 
 [Cultivate Gallery "Next(Au Suivant)" online show, curated by Sean Worrall and Emma Harvey](https://organthing.com/2021/04/20/cultivate-presents-next-au-suivant-an-on-line-art-exhibition/)
 
