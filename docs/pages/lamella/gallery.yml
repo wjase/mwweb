@@ -166,4 +166,52 @@
     price: 300
     status: forsale
     link: https://www.saatchiart.com/art/Painting-Lamella-ii/1047425/7937004/view  
-
+  - img: img/breach_sm.jpg
+    alt: |
+      Breach
+      Oil on panel
+      30 cm x 30 cm
+    price: 400
+    status: forsale
+  - img: img/charybdis_sm.jpg
+    alt: |
+      Charybdis
+      Oil on panel
+      50 cm x 50 cm
+    price: 540
+    status: forsale
+  - img: img/elixir_sm.jpg
+    alt: |
+      Elixir
+      Oil on canvas
+      140 cm x 100 cm
+    price: 1015
+    status: forsale  
+  - img: img/kalliope_sm.jpg    
+    alt: |
+      Kalliope
+      Oil on canvas
+      110 cm x 110 cm
+    price: 
+    status: sold  
+  - img: img/limerance_sm.jpg    
+    alt: |
+      Limerance
+      Oil on canvas
+      72 cm x 72 cm
+    price: 675
+    status: forsale  
+  - img: img/moissanite_sm.jpg  
+    alt: |
+      Moissanite
+      Oil on panel
+      50 cm x 50 cm
+    price: 540
+    status: forsale
+  - img: img/mondegreen_sm.jpg  
+    alt: |
+      Mondegreen
+      Oil on panel
+      60 cm x 40 cm
+    price: 540
+    status: forsale 
