@@ -21,7 +21,7 @@ Melissa Wraxall. com
 
 Use following script in the terminal to scale images replacing lamella with new title
 
-    python script\updateImages.py docs\pages\breach\img
+    python script\updateImages.py docs\pages\<name of folder>\img
 
 
 
