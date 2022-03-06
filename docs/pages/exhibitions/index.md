@@ -6,7 +6,7 @@ Memory Papers, Associates Show, 44AD Artspace, Abbey Street, Bath
 
 Current:
 
-Hope and Humanity, 44AD Artspace, Abbey Street, Bath. Open 4th to 14th March 2022. 
+Hope and Humanity, 44AD Artspace, Abbey Street, Bath. Open 4th to 13th March 2022. 
 
 Coming up:
 
