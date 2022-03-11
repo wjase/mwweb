@@ -10,6 +10,8 @@ Hope and Humanity, 44AD Artspace, Abbey Street, Bath. Open 4th to 13th March 202
 
 Coming up:
 
+A selection of works from Hope and Humanity, including Limerance, will be shown at the Royal United Hospital, Bath from mid-March until 31st May 2022.
+
 Newlyn Society of Artists, "Memory" 
 Tremenheere Gallery, Tremenheere Sculpture Gardens, Nr Gulval, Penzance, TR20 8YL. Open 9th April to 1st May 2022. 
 
