@@ -33,9 +33,7 @@ Melissa is a 44AD Associate artist, and she co-curated Laura’s Place, in 2014.
 
 <div class="text-center">
 
-[Newlyn Society of Artists](https://www.nsanewlyn.com/artists/wraxallmelissa/)
 
-[RWA Artist Network](https://www.rwa.org.uk/blogs/artists/melissa-wraxall)
 
 [Somerset Art Works](https://somersetartworks.org.uk/artists/melissa-temple-smith/)
 
