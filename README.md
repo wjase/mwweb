@@ -59,3 +59,14 @@ python 3
 
 run ```npm start```
 
+## updating the javascript
+
+To update the 3rd party js files type:
+```npm update```
+
+If any vulnerabilities are flagged run ```npm audit fix```
+
+to copy the files into the vendor folders:
+
+```gulp```
+
