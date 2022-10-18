@@ -6,17 +6,20 @@ Memory Papers, Associates Show, 44AD Artspace, Abbey Street, Bath
 
 Hope and Humanity, 44AD Artspace, Abbey Street, Bath. Open 4th to 13th March 2022. 
 
-A selection of works from Hope and Humanity, Royal United Hospital, Bath.
+A selection of works from Hope and Humanity, Royal United Hospital
 
-Newlyn Society of Artists, "Memory" at Tremenheere Gallery, Tremenheere Sculpture Gardens, Nr Gulval, Penzance, TR20 8YL. 
-
-Current:
+Memory, Newlyn Society of Artists,at Tremenheere Gallery, Tremenheere Sculpture Gardens, Near Gulval, Penzance, TR20 8YL
 
 Seven Seconds, curated by Mark Fearbunce. Group show at Milsom Place, Bath. 27th May to 12th June 2022
 
+Current:
+
+Bath Art Prize Exhibition, 44AD Artspace, Abbey Street, Bath, BA1 1NN
+19th October to 30th October, 11am - 5pm Prize Evening Friday 21st October 6-8pm. 
+
 Coming up:
 
-March 2023: Solo Show at Pound Arts, Corsham.
+Feb - March 2023: Solo Show at Pound Arts, Corsham.
 
 # 2021
 
