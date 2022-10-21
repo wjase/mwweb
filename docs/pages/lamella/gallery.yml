@@ -215,3 +215,31 @@
       60 cm x 40 cm
     price: 540
     status: forsale 
+ - img: img/ambrosia_sm.jpg  
+    alt: |
+      Ambrosia
+      Oil on panel
+      50 cm x 50 cm
+    price: 540
+    status: forsale 
+ - img: img/electra_sm.jpg  
+    alt: |
+      Electra
+      Oil on canvas
+      25 cm x 25 cm
+    price: 370
+    status: forsale 
+ - img: img/metamorphosis_sm.jpg  
+    alt: |
+      Metamorphosis
+      Oil on canvas
+      102 cm x 77 cm
+    price: 810
+    status: forsale 
+ - img: img/minerva_sm.jpg  
+    alt: |
+      Minerva
+      Oil on canvas
+      110 cm x 110 cm
+    price: 945
+    status: forsale 
