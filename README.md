@@ -43,5 +43,30 @@ In this panel you'll see a list of proposed changes to existing files.
 
 4. Click the Views and more Actions icon (three dots) and click push.
 
+# Tech Info
 
+Uses javascript to render markdown files under /pages into html.
+Code to do this is in app.js which is loaded by index.html.
+The js code also handles loading small images while loadingthe bigger versions in the background to speed page load times.
+
+Requires:
+
+node/npm
+gulp
+python 3
+
+## Starting the server
+
+run ```npm start```
+
+## updating the javascript
+
+To update the 3rd party js files type:
+```npm update```
+
+If any vulnerabilities are flagged run ```npm audit fix```
+
+to copy the files into the vendor folders:
+
+```gulp```
 
