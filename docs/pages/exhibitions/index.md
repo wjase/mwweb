@@ -1,5 +1,20 @@
 # Exhibitions 
 
+# 2023
+
+Current:
+
+23rd February to 25th March 2023: Solo Show "Throwing Shapes" at Pound Arts, Corsham. On 2nd March, Becky Powers will be responding to the paintings through an aerial dance performance.
+
+25th February to 1st April 2023, Limerance is in the group Show "Darkness to Light" at the Atkinson Gallery, Millfield School, Street.
+
+Coming Up:
+
+March 2023, Royal Commonwealth Society previous Prizewinners Show, 44AD, Bath. Also featuring Mike Rennie, Rob Grieve, Martin Elphick, Rod Craig, June Bianchi, Paul Thomas and Rita Lazaro.
+
+May and June 2023, Solo show at Burdall's Yard. More details to follow.
+
+
 # 2022
 
 Memory Papers, Associates Show, 44AD Artspace, Abbey Street, Bath
@@ -15,17 +30,6 @@ Seven Seconds, curated by Mark Fearbunce. Group show at Milsom Place, Bath. 27th
 Bath Art Prize Exhibition, 44AD Artspace, Abbey Street, Bath, BA1 1NN
 19th October to 30th October, 2022. 
 
-Current:
-
-23rd February to 25th March 2023: Solo Show "Throwing Shapes" at Pound Arts, Corsham. On 2nd March, Becky Powers will be responding to the paintings through an aerial dance performance.
-
-25th February to 1st April 2023, Limerance is in the group Show "Darkness to Light" at the Atkinson Gallery, Millfield School, Street.
-
-Coming Up:
-
-Royal Commonwealth Society previous Prizewinners Show, 44AD, Bath. Also featuring Mike Rennie, Rob Grieve, Martin Elphick, Rod Craig, June Bianchi, Paul Thomas and Rita Lazaro.
-
-Solo show at Burdall's Yard during May and June, 2023. More details to follow.
 
 # 2021
 
