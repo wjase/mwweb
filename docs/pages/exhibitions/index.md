@@ -10,7 +10,7 @@ Current:
 
 Coming Up:
 
-March 2023, Royal Commonwealth Society previous Prizewinners Show, 44AD, Bath. Also featuring Mike Rennie, Rob Grieve, Martin Elphick, Rod Craig, June Bianchi, Paul Thomas and Rita Lazaro.
+March 2023, Royal Commonwealth Society Bath Art Prizewinners Exhibition, 44AD, Bath, 8th - 12th March, 2023. Also featuring Mike Rennie, Rob Grieve, Martin Elphick, Rod Craig, June Bianchi, Paul Thomas and Rita Lazaro.
 
 May and June 2023, Solo show at Burdall's Yard. More details to follow.
 
