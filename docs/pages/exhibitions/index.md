@@ -12,14 +12,20 @@ Memory, Newlyn Society of Artists,at Tremenheere Gallery, Tremenheere Sculpture 
 
 Seven Seconds, curated by Mark Fearbunce. Group show at Milsom Place, Bath. 27th May to 12th June 2022
 
+Bath Art Prize Exhibition, 44AD Artspace, Abbey Street, Bath, BA1 1NN
+19th October to 30th October, 2022. 
+
 Current:
 
-Bath Art Prize Exhibition, 44AD Artspace, Abbey Street, Bath, BA1 1NN
-19th October to 30th October, 11am - 5pm Prize Evening Friday 21st October 6-8pm. 
+23rd February to 25th March 2023: Solo Show "Throwing Shapes" at Pound Arts, Corsham. On 2nd March, Becky Powers will be responding to the paintings through an aerial dance performance.
 
-Coming up:
+25th February to 1st April 2023, Limerance is in the group Show "Darkness to Light" at the Atkinson Gallery, Millfield School, Street.
 
-Feb - March 2023: Solo Show at Pound Arts, Corsham.
+Coming Up:
+
+Royal Commonwealth Society previous Prizewinners Show, 44AD, Bath. Also featuring Mike Rennie, Rob Grieve, Martin Elphick, Rod Craig, June Bianchi, Paul Thomas and Rita Lazaro.
+
+Solo show at Burdall's Yard during May and June, 2023. More details to follow.
 
 # 2021
 
