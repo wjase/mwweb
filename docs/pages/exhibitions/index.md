@@ -4,15 +4,15 @@
 
 Current:
 
-23rd February to 25th March 2023: Solo Show "Throwing Shapes" at Pound Arts, Corsham. On 2nd March, Becky Powers will be responding to the paintings through an aerial dance performance.
+23rd February to 25th March 2023: Solo Show "Throwing Shapes" at The Pound Arts Centre, Pound Pill, Corsham, SN13 9HX. On 2nd March, Becky Powers will be responding to the paintings through an aerial dance performance.
 
-25th February to 1st April 2023, Limerance is in the group Show "Darkness to Light" at the Atkinson Gallery, Millfield School, Street.
+25th February to 1st April 2023, Limerance is in the group Show "Darkness to Light" at the Atkinson Gallery, Millfield School, 8 - 16 Glaston Road, Street, BA16 0YD.
+
+8th - 12th March, 2023 Royal Commonwealth Society Bath Art Prizewinners Exhibition, 44AD Artspace, Abbey Street, BA1 1NN Bath. Also featuring Mike Rennie, Rob Grieve, Martin Elphick, Rod Craig, June Bianchi, Paul Thomas and Rita Lazaro.
 
 Coming Up:
 
-8th - 12th March, 2023 Royal Commonwealth Society Bath Art Prizewinners Exhibition, 44AD Bath. Also featuring Mike Rennie, Rob Grieve, Martin Elphick, Rod Craig, June Bianchi, Paul Thomas and Rita Lazaro.
-
-May and June 2023, Solo show at Burdall's Yard. More details to follow.
+May and June 2023, Solo show at Burdall's Yard, 7A Anglo Terrace, Bath, BA1 5NH. More details to follow.
 
 
 # 2022
