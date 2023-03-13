@@ -10,20 +10,21 @@
 
 # Statement
 
-Intensely coloured expressionist abstraction is my response to the strange new post-truth, pandemic-stricken world we now live in. Making these paintings and drawings, represents for me, a kind of conceptual or imaginative freedom and a sense of hope in the midst of necessary limits to our physical freedom.
-
-The complexity of microscopic worlds, the images from the Hubble telescope of vast galaxies outside our solar system, or the rock patterns formed millions of years ago in a cliff face on a beach are the kinds of visual cues which inform the shapes and forms in my work. Although there is no subject matter per se in my paintings, I think we are evolved to find meaning, pattern or form in things which are random and incomprehensible to us, like looking up at the stars and seeing constellations which suggest the form of a mythological god, or seeing faces, creatures and objects appear and disappear in the clouds on a sunny day.
-
-Gesture is an integral part of my practice and I find that the marks often appear to suggest movement in three-dimensional space. Experiments with non-conventional tools have added to my vocabulary of techniques, producing a range of textures from scumbled or scratched surfaces, or translucent glazes, to thickly rendered impasto. Each application of colour can highlight or partially conceal, what has been applied before. I choose when to allow the drips and runs, when to keep an unexpected result, and when to shape or alter the outcome. Sometimes colour is wiped or abraded back, and these acts of destruction can often form an important element in the history and character of the work. I work on a range of surfaces, from installation multiples of tiny five- by five-centimetre paintings on angled blocks of pine, to larger works on wood panels, paper and canvas.
+Making these intensely coloured abstractions represents for me, a kind of conceptual or imaginative freedom and a sense of hope. These expressionist paintings and drawings, exist as new and unique objects, untethered to objective reality. However, every mark is a trace of a real movement in time, and I often aim for a playful sense of hide and seek, with forms floating, zipping and dancing around each other through an unlimited space.
 
 I often start with no preconceived notion of what the finished work will look like, embracing chance and improvisation. Decisions about what to apply next onto a given work, are made in an intuitive way, juxtaposing often strongly contrasting colours. These are derived from the dazzling and seductive palette of the digital environment, as well as those attention-seeking pigments in the natural world, used as warnings, or to attract pollinators or prey.
-The titles of these paintings are free associations derived from visual elements of the works which emerge as they take shape; these could be related to subjects as diverse as biology, astronomy, culture, technology or politics. My work is primarily focused on the exploration of colour, and the material possibilities of paint and other media, allowing the viewer free reign on imaginative interpretations. 
 
-©2021 Melissa Wraxall 
+The complexity of microscopic worlds, images of vast galaxies outside our solar system, or rock patterns formed millions of years ago in a cliff face are the kinds of visual cues which inform the shapes and forms in my work. Although there is no subject matter per se in my paintings, I think we are evolved to find meaning, pattern or form in things which seem random and incomprehensible, like seeing mythological gods in constellations of stars, or faces, creatures and objects in the clouds on a sunny day.
+
+Gesture is an integral part of my practice, and my methodology is experimental, using unconventional tools alongside brushes and palette knives. This produces a range of textures from scumbled or scratched surfaces, or translucent glazes, to thickly rendered impasto. Each application of colour can highlight or partially conceal, what has been applied before. I choose when to allow the drips and runs, when to keep an unexpected result, and when to shape or alter the outcome. Sometimes colour is wiped or abraded back, and these acts of destruction can often form an important element in the history and character of the work. I work on a range of surfaces, from installation multiples of tiny five- by five-centimetre paintings on angled blocks of pine, to larger works on wood panels, paper and canvas.
+
+The titles of these paintings are free associations sometimes derived from visual elements of the works which emerge as they take shape. These titles could be related to subjects as diverse as biology, astronomy, culture, technology or politics, but rather than being illustrative, my work is primarily an exploration of colour, and the material possibilities of oil paint. My main intention is to invite the viewer to immerse themselves in colour and form, and as with music, to experience a sense of emotion and imaginative freedom. 
+
+©2023 Melissa Wraxall 
 
 # Bio
 
-Melissa is a painter and art educator, with a Bachelor of Art Education from NSW University, Sydney, and an MFA from Bath Spa University, UK and she currently teaches Painting and Drawing at Bath College. 
+Melissa is a painter and art educator, with a Bachelor of Art Education from NSW University, Sydney, and an MFA from Bath Spa University, UK.  
 
 Mark-making, and the materiality of the paint itself, have always been central to her painting practice, exploring the boundaries of control and chance. Her work has recently evolved from expressionist figurative paintings to intensely coloured gestural abstraction. 
 
