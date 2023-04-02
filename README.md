@@ -13,7 +13,7 @@ Melissa Wraxall. com
         Oil on paper, framed
         40 cm x 52.5 cm
 
- 5. Run node server and check that it looks ok.
+ 5. View website locally. Run node server and check that it looks ok. In terminal, type: node server.js. Open a browser and run the url localhost:3000
 
 
 
