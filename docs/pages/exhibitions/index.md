@@ -6,7 +6,7 @@
 
 23rd February to 25th March 2023: Solo Show "Throwing Shapes" at The Pound Arts Centre, Pound Pill, Corsham, SN13 9HX. On 2nd March, Becky Powers responded to the paintings through an aerial dance performance.
 
-25th February to 1st April 2023, Limerance is in the group Show "Darkness to Light" at the Atkinson Gallery, Millfield School, 8 - 16 Glaston Road, Street, BA16 0YD.
+25th February to 1st April 2023, Limerance was selected for the group Show "Darkness to Light" at the Atkinson Gallery, Millfield School, 8 - 16 Glaston Road, Street, BA16 0YD.
 
 Coming Up:
 
