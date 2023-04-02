@@ -45,7 +45,7 @@
       Oil on panel
       40 cm x 30 cm
     price: 300
-    status: forsale  
+    status: sold  
   - img: img/s4w_sylph_sm.jpg
     alt: |
       Sylph
@@ -243,3 +243,24 @@
       110 cm x 110 cm
     price: 945
     status: forsale 
+  - img: img/nimbus_sm.jpg  
+    alt: |
+      Nimbus
+      Oil on canvas
+      55 cm x 35 cm
+    price: 450
+    status: forsale 
+  - img: img/Between Scylla and Charybdis_sm.jpg  
+    alt: |
+      Between Scylla and Charybdis (Triptych)
+      Oil on canvas
+      150 cm x 360 cm
+    price: 3500
+    status: forsale  
+  - img: img/afterglow_sm.jpg  
+    alt: |
+      Afterglow
+      Oil on canvas
+      62 cm x 52 cm
+    price: 550
+    status: forsale      
