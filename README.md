@@ -19,7 +19,8 @@ Melissa Wraxall. com
 
 # scaling images
 
-Use following script in the terminal to scale images replacing lamella with new title
+Use following script in the terminal to scale images replacing folder name
+(eg pixels) with new title, eg exhibitions
 
     python script\updateImages.py docs\pages\<name of folder>\img
 
