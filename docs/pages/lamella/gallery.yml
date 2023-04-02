@@ -264,3 +264,10 @@
       62 cm x 52 cm
     price: 550
     status: forsale      
+  - img: img/seven_seconds_sm.jpg  
+    alt: |
+      Seven Seconds
+      Oil on canvas
+      25.5 cm x 70 cm
+    price: 500
+    status: forsale          
