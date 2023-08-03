@@ -34,11 +34,9 @@ Melissa is a 44AD Associate artist, and she co-curated Laura’s Place, in 2014.
 
 <div class="text-center">
 
-
+Email: melissa.wraxall@gmail.com
 
 [Somerset Art Works](https://somersetartworks.org.uk/artists/melissa-temple-smith/)
-
-[Spike Island Associates](https://www.spikeisland.org.uk/our-community/spike-island-associates/)
 
 [44AD artspace](http://www.44ad.net/associate-artists.html)
 
