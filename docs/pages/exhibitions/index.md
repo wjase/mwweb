@@ -8,9 +8,7 @@
 
 25th February to 1st April 2023, Limerance was selected for the group Show "Darkness to Light" at the Atkinson Gallery, Millfield School, 8 - 16 Glaston Road, Street, BA16 0YD.
 
-Coming Up:
-
-VIVID, 16th May to 24th June 2023, Solo show at Burdall's Yard, 7A Anglo Terrace, Bath, BA1 5NH. Private View: Tuesday 23rd May 6.30pm - 8.30pm. 
+VIVID, 16th May to 24th June 2023, Solo show at Burdall's Yard, 7A Anglo Terrace, Bath, BA1 5NH. 
 
 
 # 2022
