@@ -12,6 +12,8 @@ VIVID, 16th May to 24th June 2023, Solo show at Burdall's Yard, 7A Anglo Terrace
 
 From 8th August, Limerance and Rapture are showing at Sulis Hospital, in association with Art at the Heart, RUH.
 
+Bath Open Art Prize Exhibition, 44Ad Artspace, Bath, 14th October - 28th October 2023.
+
 
 # 2022
 
