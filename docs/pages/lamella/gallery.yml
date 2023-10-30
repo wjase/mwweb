@@ -80,7 +80,7 @@
       Oil on panel
       30 cm x 30 cm
     price: 280
-    status: forsale  
+    status: sold  
   - img: img/telos_sm.jpg
     alt: |
       Telos
@@ -142,15 +142,7 @@
       Rapture
       Oil on canvas
       60 cm x 80 cm
-    price: 490
-    status: forsale  
-  - img: img/cimmerian_sm.jpg
-    alt: |
-      Cimmerian
-      Oil on panel
-      30 cm x 30 cm
-    price: 280
-    status: forsale  
+    price: 490  
   - img: img/undertow_sm.jpg
     alt: |
       Undertow
