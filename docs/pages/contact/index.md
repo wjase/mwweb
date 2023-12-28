@@ -80,7 +80,7 @@
             <script type="text/javascript">
                     if(typeof(grecaptcha)!='undefined'){
                     grecaptcha.render('recaptcha', {
-                        'sitekey' : '6LfBRMUaAAAAAFZgBArQhXoM4quk8SfG0tuWEfGx'
+                        'sitekey' : '6LduFd0nAAAAAIVXzaxl_jN1A9kkl_-WjojxESjy'
                         });
                     }
                     function sendForm(){
