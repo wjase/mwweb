@@ -1,5 +1,13 @@
 # Exhibitions 
 
+# 2024
+
+Limerance and Rapture in continuing show at Sulis Hospital, in association with Art at the Heart, RUH.
+
+Static Energy, 44AD Associates Show, 44AD Artspace, Bath
+
+Moon Gazers and Star Finders, Royal Commonwealth Society Bath Art Exhibition, 44AD Artspace, Abbey Street, BA1 1NN Bath.
+
 # 2023
 
 8th - 12th March, 2023 Royal Commonwealth Society Bath Art Prizewinners Exhibition, 44AD Artspace, Abbey Street, BA1 1NN Bath. Also featured Mike Rennie, Rob Grieve, Martin Elphick, Rod Craig, June Bianchi, Paul Thomas and Rita Lazaro.
