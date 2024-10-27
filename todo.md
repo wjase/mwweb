@@ -1,6 +1,6 @@
 # items to be done
 
-* Remove contact page
+* Remove contact page - done
 
 * Change title of About to Statement and Bio
 
