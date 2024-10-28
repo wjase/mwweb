@@ -3,12 +3,6 @@
     slug: about
   - item: GALLERY
     slug: gallery
-  - item: FLUX
-    slug: flux
-  - item: PIXELS
-    slug: pixels
-  - item: NED
-    slug: ned
   - item: EXHIBITIONS
     slug: exhibitions
   - item: CONTACT
