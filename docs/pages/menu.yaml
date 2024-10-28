@@ -1,8 +1,8 @@
 ---
   - item: ABOUT
     slug: about
-  - item: LAMELLA
-    slug: lamella
+  - item: GALLERY
+    slug: gallery
   - item: FLUX
     slug: flux
   - item: PIXELS

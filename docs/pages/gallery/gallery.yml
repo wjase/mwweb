@@ -1,7 +1,7 @@
 ---
   - img: img/s4w_lamella_under_sm.jpg
     alt: |
-      Lamella
+      lamella
       Oil on Paper, framed
       40 cm x 52.5 cm
     price: 345
@@ -152,12 +152,12 @@
     status: forsale
   - img: img/lamella_ii_sm.jpg
     alt: |
-      Lamella II
+      lamella II
       Oil on panel
       40 cm x 30 cm
     price: 300
     status: forsale
-    link: https://www.saatchiart.com/art/Painting-Lamella-ii/1047425/7937004/view  
+    link: https://www.saatchiart.com/art/Painting-lamella-ii/1047425/7937004/view  
   - img: img/breach_sm.jpg
     alt: |
       Breach

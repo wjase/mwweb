@@ -2,7 +2,7 @@ Melissa Wraxall. com
 
 # adding images
 
- 1. Copy image into img folder for correct page eg lamella
+ 1. Copy image into img folder for correct page eg gallery
  2. Make sure file name ends in ```_lg```
  3. Run script to scale images. (See below)
  4. Update gallery.yml with info on file. Note: Make sure hyphens and all new details line up exactly with previous details, leaving 2 spaces of indent. Copy a section as below, from the beginning of the line.

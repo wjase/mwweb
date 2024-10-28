@@ -74,7 +74,7 @@ Material World, 44AD Artspace, Abbey Street, Bath
 
 Monthly 44AD online shows, Alphabet; Between; Curiosity; Data; Enveloped; Flora; Gesture (Melissa selected this theme); Hybrid 
 
-Lamella Mini Show Dexter’s Coffee Shop, 1 George’s Place, Bath, BA2 4EN
+gallery Mini Show Dexter’s Coffee Shop, 1 George’s Place, Bath, BA2 4EN
 
 All Shall Pass, Fronteer Art, 18 Exchange Street Sheffield, S2 5TS
  

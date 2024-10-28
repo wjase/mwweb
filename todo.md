@@ -4,7 +4,7 @@
 
 * Change title of About to Statement and Bio
 
-* Change title of Lamella to Gallery
+* Change title of gallery to Gallery
 
 * New works to appear at the top of the Gallery page
 
