@@ -1,8 +1,8 @@
 ---
   - item: ABOUT
     slug: about
-  - item: GALLERY
-    slug: gallery
+  # - item: GALLERY
+  #   slug: gallery
   - item: EXHIBITIONS
     slug: exhibitions
   - item: CONTACT
