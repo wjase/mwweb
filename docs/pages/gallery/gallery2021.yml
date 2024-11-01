@@ -1,0 +1,110 @@
+---
+  - img: img/spindrift_sm.jpg
+    alt:
+      Spindrift
+      Oil on canvas
+      140cm x 110cm
+    price: 945
+    status: forsale  
+  - img: img/neologism_sm.jpg
+    alt: |
+      Neologism
+      Oil on canvas
+      62.5cm x 53cm
+    price: 395
+    status: forsale  
+  - img: img/breach_sm.jpg
+    alt: |
+      Breach
+      Oil on panel
+      30cm x 30cm
+    price: 400
+    status: forsale
+  - img: img/charybdis_sm.jpg
+    alt: |
+      Charybdis
+      Oil on panel
+      50cm x 50cm
+    price: 540
+    status: sold
+  - img: img/elixir_sm.jpg
+    alt: |
+      Elixir
+      Oil on canvas
+      140cm x 100cm
+    price: 1015
+    status: forsale  
+  - img: img/kalliope_sm.jpg    
+    alt: |
+      Kalliope
+      Oil on canvas
+      110cm x 110cm
+    price: 
+    status: sold  
+  - img: img/limerance_sm.jpg    
+    alt: |
+      Limerance
+      Oil on canvas
+      72cm x 72cm
+    price: 675
+    status: forsale  
+  - img: img/moissanite_sm.jpg  
+    alt: |
+      Moissanite
+      Oil on panel
+      50cm x 50cm
+    price: 540
+    status: forsale
+  - img: img/mondegreen_sm.jpg  
+    alt: |
+      Mondegreen
+      Oil on panel
+      60cm x 40cm
+    price: 540
+    status: forsale 
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
