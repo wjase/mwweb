@@ -116,10 +116,10 @@ jQuery(function () {
                     appContainer.html(rendered);
 
                     var gallery = $('.gallery')
-                    if (gallery.length) {
-                        var src = gallery.attr("data-src")
-                        loadGallery(src, gallery)
-                    }
+                        .each((s,g)=>{
+                            var src = $(g).attr("data-src")
+                            loadGallery(src, $(g))
+                        });
                 })
         }
     };
