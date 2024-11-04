@@ -68,28 +68,32 @@
     <div class="row">
       <div class="grid-sizer col-xs-12"></div>
       {{#each images}}
-      <div class="justify-content-center grid-item {{#if wide}}col-xs-12 col-sm-8 col-md-6{{else}}col-xs-12 col-sm-6 col-md-4{{/if}}">
+      <div class="justify-content-left grid-item {{#if wide}}col-xs-12 col-sm-8 col-md-6{{else}}col-xs-12 col-sm-6 col-md-4{{/if}}">
         <img class="asyncImage" src="{{../gallery_path}}/{{img}}" alt="{{alt}}">
         <div class="row">
-          <div class="col-md-6 col-xs-12 caption">{{alt}}</div>
+          <div class="col-md-9 col-xs-9 caption">{{alt}}</div>
           {{#if sold}}
-          <div class="price col-md-6 col-xs-12 ">SOLD</div>
+          <div class="price col-md-9 col-xs-9 ">SOLD</div>
           {{else}}
             {{#if pending}}
-            <div class="price col-md-6 col-xs-12 ">SALE PENDING</div>
+            <div class="price col-md-9 col-xs-9 ">SALE PENDING</div>
+            {{else}}
+              {{#if price}}
+            <div class="price col-md-3 col-xs-3 ">£{{price}}</div>
+              {{/if}}
             {{/if}}
           {{/if}}
           {{#if hasLink}}
               {{#if sold}}
-                <div class="col-md-12 col-xs-12 caption saatchibtn"><a class="btn btn-outline-primary btn-sm" href="{{link}}">View on Saatchi</a></div>
+                <div class="col-md-9 col-xs-9 caption saatchibtn"><a class="btn btn-outline-primary btn-sm" href="{{link}}">View on Saatchi</a></div>
               {{else}}
-                <div class="col-md-12 col-xs-12 caption saatchibtn"><a class="btn btn-outline-primary btn-sm" href="{{link}}">View/Buy on Saatchi</a></div>
+                <div class="col-md-9 col-xs-9 caption saatchibtn"><a class="btn btn-outline-primary btn-sm" href="{{link}}">View/Buy on Saatchi</a></div>
               {{/if}}
 
           {{/if}}
           
+          
         </div>
-
       </div>
       {{/each}}
     </div>

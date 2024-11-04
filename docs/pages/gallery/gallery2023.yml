@@ -14,46 +14,46 @@
     price: 550
     status: forsale      
   - img: img/swerve_sm.jpg
-    alt:
+    alt: |
      Swerve
      Oil on panel
      30cm x 30cm
-    price: £350
+    price: 350
     status: for sale
   - img: img/kompromat_sm.jpg
-    alt:
+    alt: |
      Kompromat
      Oil on panel
      59cm x 42cm
-    price: £500
+    price: 500
     status: for sale
   - img: img/origin_sm.jpg
-    alt:
+    alt: |
      Origin
      Oil on paper
      42cm x 30cm 
-    price: £400
+    price: 400
     status: for sale
   - img: img/switchback_sm.jpg
-    alt:
+    alt: |
      Switchback
      Oil on panel
      30cm x 30cm
-    price: £350
+    price: 350
     status: for sale
   - img: img/luminary_sm.jpg
-    alt:
+    alt: |
      Luminary
      Oil on canvas
      100cm x 100cm
-    price: £1000
+    price: 1000
     status: for sale
   - img: img/tethys_sm.jpg
-    alt:
+    alt: |
      Tethys
      Oil on paper, framed
      73cm x 55cm
-    price: £650
+    price: 650
     status: for sale
   
      
