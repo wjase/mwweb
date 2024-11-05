@@ -1,5 +1,21 @@
 ---
-  - 
+  - img: img/satellites_sm.jpg
+    alt:
+      Satellites
+      Oil on paper (framed)
+      70cm x 90cm
+    price: £800
+    status: for sale
+  - img: img/aurora_sm.jpg
+    alt:
+      Aurora
+      Oil on paper (framed)
+      42.5cm x 33cm
+    price: £400
+    status: for sale
+
+
+
 
 
 

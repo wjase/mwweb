@@ -62,6 +62,15 @@
       60cm x 40cm
     price: 540
     status: forsale 
+  - img: img/tangaroa_sm.jpg
+    alt:
+      Tangaroa
+      Oil on paper (framed)
+      59.5cm x 80cm
+    price: £700
+    status: for sale
+
+
   
 
 
