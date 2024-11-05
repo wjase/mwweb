@@ -1,16 +1,16 @@
 ---
   - img: img/between_scylla_and_charybdis_sm.jpg  
     alt: |
-      Between Scylla and Charybdis
-      Oil on canvas
-      150cm x 360cm
+     Between Scylla and Charybdis
+     Oil on canvas
+     150cm x 360cm
     price: 3500
     status: forsale  
   - img: img/afterglow_sm.jpg  
     alt: |
-      Afterglow
-      Oil on canvas
-      62cm x 52cm
+     Afterglow
+     Oil on canvas
+     62cm x 52cm
     price: 550
     status: forsale      
   - img: img/swerve_sm.jpg
