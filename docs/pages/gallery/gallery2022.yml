@@ -4,21 +4,21 @@
       Yellow-Green
       40cm x 30cm
       Oil on canvas
-    price: £400 
+    price: 400 
     status: SOLD
  -  img: img/blue-grey_sm.jpg
     alt:
       Blue-Grey
       40cm x 40cm
       Oil on canvas
-    price: £450 
+    price: 450 
     status: SOLD
   - img: img/red-gold_sm.jpg
     alt:
       Red-Gold
       40cm x 30cm
       Oil on canvas
-    price: £400 
+    price: 400 
     status: SOLD
   - img: img/ambrosia_sm.jpg  
     alt: |
