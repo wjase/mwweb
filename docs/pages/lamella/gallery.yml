@@ -1,0 +1,484 @@
+---
+  - img: img/s4w_lamella_under_sm.jpg
+    alt: |
+      Lamella
+      Oil on Paper, framed
+      40 cm x 52.5 cm
+    price: 345
+    status: forsale  
+  - img: img/s4w_microcosm_sm.jpg  
+    wide: true
+    alt: |
+      Microcosm
+      Oil on panel
+      30 cm x 40 cm
+    price: 300
+    status: forsale
+    link: https://www.saatchiart.com/art/Painting-Microcosm/1047425/8276320/view
+  - img: img/s4w_tendril_sm.jpg
+    alt: |
+      Tendril
+      Oil on panel
+      40 cm x 30 cm
+    price: 300
+    status: forsale  
+    link: https://www.saatchiart.com/art/Painting-Tendril/1047425/8275908/view 
+  - img: img/s4w_magnetism_sm.jpg
+    wide: true
+    alt: |
+      Magnetism
+      Oil on panel
+      30 cm x 40 cm
+    price: 300
+    status: forsale  
+  - img: img/s4w_nymph_sm.jpg
+    alt: |
+      Nymph
+      Oil on panel
+      40 cm x 30 cm
+    price: 300
+    status: forsale 
+    link: https://www.saatchiart.com/art/Painting-Nymph/1047425/8276424/view
+  - img: img/s4w_mantilla_under_sm.jpg
+    alt: |
+      Mantilla
+      Oil on panel
+      40 cm x 30 cm
+    price: 300
+    status: sold  
+  - img: img/s4w_sylph_sm.jpg
+    alt: |
+      Sylph
+      Oil on panel
+      40 cm x 30 cm
+    price: 300
+    status: forsale  
+  - img: img/heliograph_sm.jpg
+    alt: |
+      Heliograph
+      Oil on paper, framed
+      40 cm x 52.5 cm
+    price: 345
+    status: forsale  
+  - img: img/nereid_sm.jpg
+    alt: |
+      Nereid
+      Oil on panel
+      40 cm x 40 cm
+    price: 320
+    status: forsale  
+  - img: img/maralinga_sm.jpg
+    alt: |
+      Maralinga
+      Oil on panel
+      40 cm x 40 cm
+    price: 320
+    status: forsale  
+  - img: img/calypso_sm.jpg
+    alt: |
+      Calypso
+      Oil on panel
+      30 cm x 30 cm
+    price: 280
+    status: sold  
+  - img: img/telos_sm.jpg
+    alt: |
+      Telos
+      Oil on paper, unframed
+      30.3 cm x 21.6 cm
+    price: 215
+    status: forsale  
+  - img: img/capriole_sm.jpg
+    alt: |
+      Capriole
+      Oil on panel
+      45.5 cm x 59 cm
+    price: 395
+    status: forsale  
+  - img: img/skirmish_sm.jpg
+    alt: |
+      Skirmish
+      Oil on paper, unframed
+      30.3 cm x 21.6 cm
+    price: 215
+    status: forsale  
+  - img: img/labyrinth_sm.jpg
+    alt: |
+      Labyrinth
+      Oil on paper, unframed
+      30.3 cm x 21.6 cm
+    price: 215
+    status: forsale 
+  - img: img/spindrift_sm.jpg
+    alt: |
+      Spindrift
+      Oil on canvas
+      140 cm x 110 cm
+    price: 945
+    status: forsale  
+  - img: img/neologism_sm.jpg
+    alt: |
+      Neologism
+      Oil on canvas
+      62.5 cm x 53 cm
+    price: 395
+    status: forsale  
+  - img: img/shantung_sm.jpg
+    alt: |
+      Shantung
+      Oil on paper, unframed
+      30.3 cm x 21.6 cm
+    price: 215
+    status: forsale 
+  - img: img/allegretto_sm.jpg
+    alt: |
+      Allegretto
+      Oil on paper, unframed
+      30.3 cm x 21.6 cm
+    price: 215
+    status: forsale  
+  - img: img/rapture_sm.jpg
+    alt: |
+      Rapture
+      Oil on canvas
+      60 cm x 80 cm
+    price: 490  
+  - img: img/undertow_sm.jpg
+    alt: |
+      Undertow
+      Oil on panel
+      40 cm x 30 cm
+    price: 300
+    status: forsale
+  - img: img/lamella_ii_sm.jpg
+    alt: |
+      Lamella II
+      Oil on panel
+      40 cm x 30 cm
+    price: 300
+    status: forsale
+    link: https://www.saatchiart.com/art/Painting-Lamella-ii/1047425/7937004/view  
+  - img: img/breach_sm.jpg
+    alt: |
+      Breach
+      Oil on panel
+      30 cm x 30 cm
+    price: 400
+    status: forsale
+  - img: img/charybdis_sm.jpg
+    alt: |
+      Charybdis
+      Oil on panel
+      50 cm x 50 cm
+    price: 540
+    status: sold
+  - img: img/elixir_sm.jpg
+    alt: |
+      Elixir
+      Oil on canvas
+      140 cm x 100 cm
+    price: 1015
+    status: forsale  
+  - img: img/kalliope_sm.jpg    
+    alt: |
+      Kalliope
+      Oil on canvas
+      110 cm x 110 cm
+    price: 
+    status: sold  
+  - img: img/limerance_sm.jpg    
+    alt: |
+      Limerance
+      Oil on canvas
+      72 cm x 72 cm
+    price: 675
+    status: forsale  
+  - img: img/moissanite_sm.jpg  
+    alt: |
+      Moissanite
+      Oil on panel
+      50 cm x 50 cm
+    price: 540
+    status: forsale
+  - img: img/mondegreen_sm.jpg  
+    alt: |
+      Mondegreen
+      Oil on panel
+      60 cm x 40 cm
+    price: 540
+    status: forsale 
+  - img: img/ambrosia_sm.jpg  
+    alt: |
+      Ambrosia
+      Oil on panel
+      50 cm x 50 cm
+    price: 540
+    status: forsale 
+  - img: img/electra_sm.jpg  
+    alt: |
+      Electra
+      Oil on canvas
+      25 cm x 25 cm
+    price: 370
+    status: forsale 
+  - img: img/metamorphosis_sm.jpg  
+    alt: |
+      Metamorphosis
+      Oil on canvas
+      102 cm x 77 cm
+    price: 810
+    status: forsale 
+  - img: img/minerva_sm.jpg  
+    alt: |
+      Minerva
+      Oil on canvas
+      110 cm x 110 cm
+    price: 945
+    status: forsale 
+  - img: img/nimbus_sm.jpg  
+    alt: |
+      Nimbus
+      Oil on canvas
+      55 cm x 35 cm
+    price: 450
+    status: forsale 
+  - img: img/between_scylla_and_charybdis_sm.jpg  
+    alt: |
+      Between Scylla and Charybdis
+      Oil on canvas
+      150 cm x 360 cm
+    price: 3500
+    status: forsale  
+  - img: img/afterglow_sm.jpg  
+    alt: |
+      Afterglow
+      Oil on canvas
+      62 cm x 52 cm
+    price: 550
+    status: forsale      
+  - img: img/seven_seconds_sm.jpg  
+    alt: |
+      Seven Seconds
+      Oil on canvas
+      25.5 cm x 70 cm
+    price: 500
+    status: forsale  
+  - img: img/swerve_sm.jpg
+    alt:
+     Swerve
+     Oil on panel
+     30cm x 30cm
+    price: £350
+    status: for sale
+  - img: img/kompromat_sm.jpg
+    alt:
+     Kompromat
+     Oil on panel
+     59cm x 42cm
+    price: £500
+    status: for sale
+  - img: img/origin_sm.jpg
+    alt:
+     Origin
+     Oil on paper
+     42cm x 30cm 
+    price: £400
+    status: for sale
+  - img: img/switchback_sm.jpg
+    alt:
+     Switchback
+     Oil on panel
+     30cm x 30cm
+    price: £350
+    status: for sale
+  - img: img/luminary_sm.jpg
+    alt:
+     Luminary
+     Oil on canvas
+     100cm x 100cm
+    price: £1000
+    status: for sale
+  - img: img/tethys_sm.jpg
+    alt:
+     Tethys
+     Oil on paper, framed
+     73cm x 55cm
+    price: £650
+    status: for sale
+  - img: img/azimuth_sm.jpg
+    alt:
+     Azimuth
+     Oil on panel
+     65cm x 50cm
+    price: £600
+    status: for sale
+  - img: img/defiance_sm.jpg
+    alt:
+     Defiance
+     Oil on panel
+     25cm x 20cm
+    price: £300
+    status: for sale
+  - img: img/inversion_sm.jpg
+    alt:
+     Inversion
+     Oil on panel
+     25cm x 20cm
+    price: £300
+    status: for sale
+  - img: img/caelus_sm.jpg
+    alt:
+     Caelus
+     Oil on panel
+     50cm x 50cm
+    price: £500
+    status: for sale
+  - img: img/cleofan_sm.jpg
+    alt:
+     Cleofan
+     Oil on panel
+     50cm x 50cm
+    price: £500
+    status: for sale
+  - img: img/sisyphus_sm.jpg
+    alt:
+     Sisyphus
+     Oil on panel
+     50cm x 50cm
+    price: £500
+    status: for sale
+  - img: img/velleity_sm.jpg
+    alt:
+     Velleity
+     Oil on panel
+     50cm x 50cm
+    price: £500
+    status: for sale
+  - img: img/prima_sm.jpg
+    alt:
+     Prima
+     Oil on panel
+     25cm x 20cm
+    price: £300
+    status: for sale
+  - img: img/mezzo_sm.jpg
+    alt:
+     Mezzo
+     Oil on panel
+     25cm x 20cm
+    price: £300
+    status: for sale
+  - img: img/ultima_sm.jpg
+    alt:
+     Ultima
+     Oil on panel
+     25cm x 20cm
+    price: £300
+    status: for sale
+  - img: img/empathy_sm.jpg
+    alt:
+     Empathy
+     Oil on panel
+     20cm x 20.5cm
+    price: £250
+    status: for sale
+  - img: img/incursion_sm.jpg
+    alt:
+     Incursion
+     Oil on panel
+     20cm x 25cm
+    price: £300
+    status: for sale
+  - img: img/lifeline_sm.jpg
+    alt:
+     Lifeline
+     Oil on panel
+     20cm x 25cm
+    price: £300
+    status: for sale
+  - img: img/piccola_sm.jpg
+    alt:
+     Piccola
+     Oil on panel
+     20cm x 25cm
+    price: £300
+    status: for sale
+  - img: img/reveal_sm.jpg
+    alt:
+     Reveal
+     Oil on paper
+     56cm x 76cm
+    price: £700
+    status: for sale
+  - img: img/timeframe_sm.jpg
+    alt:
+     Timeframe
+     Oil on panel
+     20cm x 25cm
+    price: £250
+    status: for sale
+  - img: img/euphoria_sm.jpg
+    alt:
+     Euphoria
+     Oil on board
+     112cm x 56cm
+    price: £850
+    status: for sale
+  - img: img/swimbel_sm.jpg
+    alt:
+     Swimbel
+     Oil on canvas
+     40cm x 40cm
+    price: £450
+    status: for sale
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
