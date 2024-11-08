@@ -1,9 +1,13 @@
 <div class="container-fluid" class="header-img">
      <div class="text-center row">
-          <div >
-               <img class="asyncImage nomargin" src="img/Satellites_sm.jpg" alt="Satellites, oil on paper, 90 cm x 70.5 cm (framed)"/>
+          <div  class="col-md-12">
+               <img class="asyncImage nomargin" src="img/between_scylla_and_charybdis_sm.jpg" alt="Between Scylla and Charybdis
+     Oil on canvas
+     150cm x 360cm"/>
           </div>
-          <div class="caption text-center">Satellites, oil on paper, 90 cm x 70.5 cm (framed)
+          <div class="caption text-center col-md-12"> Between Scylla and Charybdis
+     Oil on canvas
+     150cm x 360cm
           </div>
      </div>
 </div>

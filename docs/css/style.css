@@ -153,3 +153,10 @@ input[type=checkbox]
   margin-right: 0.5em;
 }
 
+.gallery {
+  padding-bottom: 2em;
+}
+
+.header-img{
+  width: 100%;
+}
