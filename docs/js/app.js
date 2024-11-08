@@ -51,10 +51,12 @@ jQuery(function () {
                 var context = {
                     gallery_path: gallery_path,
                     images: galleryDoc.map(i=>{
-                        i.hasLink='link' in i;
-                        i.sold=i.status=='sold';
-                        i.pending=i.status=='pending';
-                        return i;
+                        if(!!i){
+                            i.hasLink=!i.link;
+                            i.sold=i.status=='sold';
+                            i.pending=i.status=='pending';
+                            return i;
+                        }
                     })
                 };
 
@@ -120,6 +122,14 @@ jQuery(function () {
                             var src = $(g).attr("data-src")
                             loadGallery(src, $(g))
                         });
+
+                        $(function() {
+                            $('.gallery img').on('click', function() {
+                                $('.imagepreview').attr('src', $(this).attr('src'));
+                                $('.modal-caption').html($(this).attr('alt'));
+                                $('#imagemodal').modal('show');   
+                            });		
+                    });
                 })
         }
     };
