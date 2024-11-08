@@ -1,7 +1,7 @@
 <div class="container-fluid" class="header-img">
      <div class="text-center row">
           <div  class="col-md-12">
-               <img class="asyncImage nomargin" src="img/between_scylla_and_charybdis_sm.jpg" alt="Between Scylla and Charybdis
+               <img class="asyncImage nomargin" src="img/between_scylla_and_charybdis_lg.jpg" alt="Between Scylla and Charybdis
      Oil on canvas
      150cm x 360cm"/>
           </div>
