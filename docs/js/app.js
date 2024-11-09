@@ -52,11 +52,11 @@ jQuery(function () {
                     gallery_path: gallery_path,
                     images: galleryDoc.map(i=>{
                         if(!!i){
-                            i.hasLink=!i.link;
+                            i.hasLink='link' in i;
                             i.sold=i.status=='sold';
                             i.pending=i.status=='pending';
                             return i;
-                        }
+                            }
                     })
                 };
 

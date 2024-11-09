@@ -25,26 +25,21 @@ All artworks are available for purchase unless indicated otherwise. Where a link
 
 ### 2019
 
-<div class="gallery" data-src="gallery2019.yml"></div>
-
 #### Ned
-
 <div class="inset">
 Digital Paintings based on a vintage film about the Australian bushranger Ned Kelly. 
 </div>
-
 <div class="gallery" data-src="gallery_ned.yml"></div>
 
 #### Flux
-
 <div class="inset">
 Twenty-four 5 cm x 5 cm oil paintings on wood. The front surface of each painting is slightly angled either up, down left or right like the tesserae in a Romanesque mosaic, and they are individually attached to the wall.
 </div>
+<img class="asyncImage col-sm-12" src="img/Flux_Straight_on_sm.jpg">
 
 <div class="gallery" data-src="gallery_flux.yml"></div>
 
 #### Pixels 
-
 <div class="inset">
 Twenty tiny pastel and graphite drawings on wood. Like Flux, the forward facing surfaces of each of the wooden blocks are slightly angled. Pixels was originally conceived as an installation, but because of the delicate nature of the media used, the work was framed and glazed as one work.
 </div>
