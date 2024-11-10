@@ -2,7 +2,7 @@
 
 # 2024
 
-Tomorrow to be Brave group exhibition,involving school groups and 44AD artists, 44AD, Bath, November 14 - 16, 2024
+Tomorrow to be Brave group exhibition, involving school groups and 44AD artists, 44AD, Bath, November 14 - 16, 2024
 
 NBAC Group Show, Roper Gallery, Bath Artists' Studios, Bath
 
