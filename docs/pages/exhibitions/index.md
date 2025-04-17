@@ -1,5 +1,17 @@
 # Exhibitions 
 
+# 2025
+
+Coming up: Widcombe Art Trail: more details soon.
+
+13 - 16th March RCS Bath Artists' Prize Winners Exhibition, March, 44AD Bath
+
+Artist Network Exhibition 2025, Royal West of England Academy, Bristol 26th March to 11 May
+
+Echoes: 44AD Associate Artists' Annual Show, January, 44AD Bath
+
+Limerance and Rapture in continuing show at Sulis Hospital, in association with Art at the Heart, RUH
+
 # 2024
 
 Tomorrow to be Brave group exhibition, involving school groups and 44AD artists, 44AD, Bath, November 14 - 16, 2024
