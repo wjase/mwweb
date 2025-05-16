@@ -29,6 +29,11 @@ jQuery(function () {
                     $(eachImage).attr('src', lgUrl):
                     $(eachImage).css('backgroundImage',`url(${lgUrl})`)
             };
+            eachImage.on('click', function() {
+                $('.imagepreview').attr('src', $(this).attr('src'));
+                $('.modal-caption').html($(this).attr('alt'));
+                $('#imagemodal').modal('show');   
+            });
         });
 
     }
@@ -123,13 +128,7 @@ jQuery(function () {
                             loadGallery(src, $(g))
                         });
 
-                        $(function() {
-                            $('.gallery img').on('click', function() {
-                                $('.imagepreview').attr('src', $(this).attr('src'));
-                                $('.modal-caption').html($(this).attr('alt'));
-                                $('#imagemodal').modal('show');   
-                            });		
-                    });
+                       
                 })
         }
     };
