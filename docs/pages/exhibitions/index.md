@@ -2,7 +2,9 @@
 
 # 2025
 
-Coming up: Widcombe Art Trail: more details soon.
+Coming up: Widcombe Art Trail: 28th and 29th June 2025. My booth will be at Widcombe Social Club.
+
+One Drop, Infinite Ripples, Part of the Festival of Nature, Bath Artist Studios, 7th June - 15th June 2025
 
 13 - 16th March RCS Bath Artists' Prize Winners Exhibition, March, 44AD Bath
 
