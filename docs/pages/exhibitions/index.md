@@ -2,11 +2,13 @@
 
 # 2025
 
-Coming up: Widcombe Art Trail: 28th and 29th June 2025. My booth will be at Widcombe Social Club.
+Summer Exhibition Group Show, Gallery Nine, 9B Marlborough Buildings Bath, BA1 2LP, 30th June to 31st Augus, 2025
+
+Widcombe Art Trail, Widcombe Social Club, 28th and 29th June 2025
 
 One Drop, Infinite Ripples, Part of the Festival of Nature, Bath Artist Studios, 7th June - 15th June 2025
 
-13 - 16th March RCS Bath Artists' Prize Winners Exhibition, March, 44AD Bath
+RCS Bath Artists' Prize Winners Exhibition, March, 44AD Bath, 13 - 16th March 
 
 Artist Network Exhibition 2025, Royal West of England Academy, Bristol 26th March to 11 May
 
