@@ -3,7 +3,7 @@
  
 All artworks are available for purchase unless indicated otherwise. Where a link is provided, some works can also be viewed or purchased through Saatchi Online.
 
-### 2024
+
 
 <div class="gallery" id="gallery2024"  data-src="gallery2024.yml"></div>
 
