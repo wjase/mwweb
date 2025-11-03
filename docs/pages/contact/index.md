@@ -1,5 +1,5 @@
 ## Contact Us
-Get in touch with Melissa on Instagram.
+If you would like to enquire about any work or discuss a commission, please contact Melissa by email, melissa.wraxall@gmail.com, or message via Instagram.
 
 <a href='https://www.instagram.com/melissa.wraxall'>https://www.instagram.com/melissa.wraxall</a>
 <div class="container-fluid" class="header-img">
