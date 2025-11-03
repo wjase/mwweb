@@ -7,23 +7,23 @@ All artworks are available for purchase unless indicated otherwise. Where a link
 
 <div class="gallery" id="gallery2024"  data-src="gallery2024.yml"></div>
 
-### 2023
+
 
 <div class="gallery" id="gallery2023" data-src="gallery2023.yml"></div>
 
-### 2022
+
 
 <div class="gallery" id="gallery2022" data-src="gallery2022.yml"></div>
 
-### 2021
+
 
 <div class="gallery" data-src="gallery2021.yml"></div>
 
-### 2020
+
 
 <div class="gallery" data-src="gallery2020.yml"></div>
 
-### 2019
+
 
 #### Ned
 <div class="inset">
@@ -48,7 +48,7 @@ Twenty tiny pastel and graphite drawings on wood. Like Flux, the forward facing 
 
 <div class="gallery" data-src="gallery_pixels.yml"></div>
 
-### 2018
+
 
 <div class="gallery" data-src="gallery2018.yml"></div>
 
