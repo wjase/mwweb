@@ -1,8 +1,18 @@
 # Exhibitions 
 
+Upcoming: Bath Open Studios Royal United Hospitals show, in association with Art at the Heart, 10th November 2025 to 3rd February 2026
+
+Upcoming: Bath Open Studios, Winter Show, Burdall's Yard, 7A Anglo Terrace, Bath, BA1 5NH, 17th - 22nd November 2025 
+
+Upcoming: Winter Exhibition, Gallery Nine,9B Marlborough Buildings Bath, BA1 2LP, 15th November 2025 to 31st January, 2026 
+
 # 2025
 
-Summer Exhibition Group Show, Gallery Nine, 9B Marlborough Buildings Bath, BA1 2LP, 30th June to 31st Augus, 2025
+Secret Postcard Auction at the Royal West of England Academy, Bristol
+
+Soliloquy selected for the group show in the Reception area at the Sulis Hospital, Bath.
+
+Summer Exhibition Group Show, Gallery Nine, 9B Marlborough Buildings Bath, BA1 2LP, 30th June to 31st August, 2025
 
 Widcombe Art Trail, Widcombe Social Club, 28th and 29th June 2025
 
