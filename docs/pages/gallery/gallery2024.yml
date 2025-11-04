@@ -20,27 +20,6 @@
      40cm x 30cm
     price: 400
     status: for sale
-  - img: img/azimuth_sm.jpg
-    alt: |
-     Azimuth
-     Oil on panel
-     65cm x 50cm
-    price: 600
-    status: for sale
-  - img: img/defiance_sm.jpg
-    alt: |
-     Defiance
-     Oil on panel
-     25cm x 20cm
-    price: 300
-    status: for sale
-  - img: img/inversion_sm.jpg
-    alt: |
-     Inversion
-     Oil on panel
-     25cm x 20cm
-    price: 300
-    status: for sale
   - img: img/caelus_sm.jpg
     alt: |
      Caelus
@@ -68,27 +47,6 @@
      Oil on panel
      50cm x 50cm
     price: 500
-    status: for sale
-  - img: img/prima_sm.jpg
-    alt: |
-     Prima
-     Oil on panel
-     25cm x 20cm
-    price: 300
-    status: for sale
-  - img: img/mezzo_sm.jpg
-    alt: |
-     Mezzo
-     Oil on panel
-     25cm x 20cm
-    price: 300
-    status: for sale
-  - img: img/ultima_sm.jpg
-    alt: |
-     Ultima
-     Oil on panel
-     25cm x 20cm
-    price: 300
     status: for sale
   - img: img/empathy_sm.jpg
     alt: |
@@ -118,13 +76,6 @@
      20cm x 25cm
     price: 300
     status: for sale
-  - img: img/reveal_sm.jpg
-    alt: |
-     Reveal
-     Oil on paper
-     56cm x 76cm
-    price: 700
-    status: for sale
   - img: img/timeframe_sm.jpg
     alt: |
      Timeframe
@@ -132,20 +83,7 @@
      20cm x 25cm
     price: 250
     status: for sale
-  - img: img/euphoria_sm.jpg
-    alt: |
-     Euphoria
-     Oil on board
-     112cm x 56cm
-    price: 850
-    status: for sale
-  - img: img/swimbel_sm.jpg
-    alt: |
-     Swimbel
-     Oil on canvas
-     40cm x 40cm
-    price: 450
-    status: for sale
+ 
 
 
 
