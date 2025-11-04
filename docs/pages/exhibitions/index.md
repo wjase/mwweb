@@ -4,7 +4,7 @@ Upcoming: Bath Open Studios Royal United Hospitals show, in association with Art
 
 Upcoming: Bath Open Studios, Winter Show, Burdall's Yard, 7A Anglo Terrace, Bath, BA1 5NH, 17th - 22nd November 2025 
 
-Upcoming: Winter Exhibition, Gallery Nine,9B Marlborough Buildings Bath, BA1 2LP, 15th November 2025 to 31st January, 2026 
+Upcoming: Winter Exhibition, Gallery Nine, 9B Marlborough Buildings Bath, BA1 2LP, 15th November 2025 to 31st January, 2026 
 
 # 2025
 
