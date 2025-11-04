@@ -34,13 +34,7 @@
      50cm x 50cm
     price: 500
     status: for sale
-  - img: img/sisyphus_sm.jpg
-    alt: |
-     Sisyphus
-     Oil on panel
-     50cm x 50cm
-    price: 500
-    status: for sale
+
   - img: img/velleity_sm.jpg
     alt: |
      Velleity
@@ -69,13 +63,7 @@
      20cm x 25cm
     price: 300
     status: for sale
-  - img: img/piccola_sm.jpg
-    alt: |
-     Piccola
-     Oil on panel
-     20cm x 25cm
-    price: 300
-    status: for sale
+ 
   - img: img/timeframe_sm.jpg
     alt: |
      Timeframe
