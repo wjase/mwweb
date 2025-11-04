@@ -1,12 +1,4 @@
 ---
-  - img: img/s4w_tendril_sm.jpg
-    alt: |
-      Tendril
-      Oil on panel
-      40cm x 30cm
-    price: 300
-    status: forsale  
-    link: https://www.saatchiart.com/art/Painting-Tendril/1047425/8275908/view 
   - img: img/s4w_magnetism_sm.jpg
     wide: true
     alt: |
@@ -14,56 +6,6 @@
       Oil on panel
       30cm x 40cm
     price: 300
-    status: forsale  
-  - img: img/s4w_nymph_sm.jpg
-    alt: |
-      Nymph
-      Oil on panel
-      40cm x 30cm
-    price: 300
-    status: forsale 
-    link: https://www.saatchiart.com/art/Painting-Nymph/1047425/8276424/view
-  - img: img/s4w_mantilla_under_sm.jpg
-    alt: |
-      Mantilla
-      Oil on panel
-      40cm x 30cm
-    price: 300
-    status: sold  
-  - img: img/s4w_sylph_sm.jpg
-    alt: |
-      Sylph
-      Oil on panel
-      40cm x 30cm
-    price: 300
-    status: forsale  
-  - img: img/nereid_sm.jpg
-    alt: |
-      Nereid
-      Oil on panel
-      40cm x 40cm
-    price: 320
-    status: forsale  
-  - img: img/maralinga_sm.jpg
-    alt: |
-      Maralinga
-      Oil on panel
-      40cm x 40cm
-    price: 320
-    status: forsale  
-  - img: img/calypso_sm.jpg
-    alt: |
-      Calypso
-      Oil on panel
-      30cm x 30cm
-    price: 280
-    status: sold  
-  - img: img/capriole_sm.jpg
-    alt: |
-      Capriole
-      Oil on panel
-      45.5cm x 59cm
-    price: 395
     status: forsale  
   - img: img/shantung_sm.jpg
     alt: |
@@ -79,20 +21,6 @@
       46cm x 36.5cm
     price: 450
     status: forsale  
-  - img: img/rapture_sm.jpg
-    alt: |
-      Rapture
-      Oil on canvas
-      60cm x 80cm
-    price: 490  
-  - img: img/undertow_sm.jpg
-    alt: |
-      Undertow
-      Oil on panel
-      40cm x 30cm
-    price: 300
-    status: forsale
-
 
 
 
