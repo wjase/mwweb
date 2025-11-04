@@ -1,7 +1,7 @@
 ## Gallery
  
  
-All artworks are available for purchase unless indicated otherwise. Where a link is provided, some works can also be viewed or purchased through Saatchi Online.
+All artworks are available for purchase unless indicated otherwise, and more works can be viewed on Instagram. Where a link is provided, some works can also be viewed or purchased through Saatchi Online.
 
 
 
