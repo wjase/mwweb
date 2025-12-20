@@ -4,35 +4,35 @@
      Swaddling
      Oil on panel
      25cm x 20cm
-    price: 300
+    price: 250
     status: for sale
   - img: img/hatchling_sm.jpg
     alt: |
      Hatchling
      Oil on panel
      20cm x 20.5cm
-    price: 250
+    price: 150
     status: for sale
   - img: img/emergence_sm.jpg
     alt: |
      Emergence
      Oil on panel
      40cm x 30cm
-    price: 400
+    price: 350
     status: for sale
   - img: img/caelus_sm.jpg
     alt: |
      Caelus
      Oil on panel
      50cm x 50cm
-    price: 500
+    price: 400
     status: for sale
   - img: img/cleofan_sm.jpg
     alt: |
      Cleofan
      Oil on panel
      50cm x 50cm
-    price: 500
+    price: 400
     status: for sale
 
   - img: img/velleity_sm.jpg
@@ -40,28 +40,28 @@
      Velleity
      Oil on panel
      50cm x 50cm
-    price: 500
+    price: 400
     status: for sale
   - img: img/empathy_sm.jpg
     alt: |
      Empathy
      Oil on panel
      20cm x 20.5cm
-    price: 250
+    price: 150
     status: for sale
   - img: img/incursion_sm.jpg
     alt: |
      Incursion
      Oil on panel
      20cm x 25cm
-    price: 300
+    price: 250
     status: for sale
   - img: img/lifeline_sm.jpg
     alt: |
      Lifeline
      Oil on panel
      20cm x 25cm
-    price: 300
+    price: 250
     status: for sale
  
   - img: img/timeframe_sm.jpg
