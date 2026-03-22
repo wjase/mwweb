@@ -1,10 +1,15 @@
 # Exhibitions 
+Upcoming: Vibrant Pockets, Bath Art Circle show, 1 - 12 April, 44AD Artspace. PV 6pm, 31 March
 
-Upcoming: Bath Open Studios Royal United Hospitals show, in association with Art at the Heart, 10th November 2025 to 3rd February 2026
+Royal Commonwealth Society Show: Enchantment, Mystery and Illusion, 6 - 14 March, 2026, 44AD, Bath
 
-Upcoming: Bath Open Studios, Winter Show, Burdall's Yard, 7A Anglo Terrace, Bath, BA1 5NH, 17th - 22nd November 2025 
+44AD Associates Show: Soft Landing, 16 - 31 January 2026, 44AD, Bath
 
-Upcoming: Winter Exhibition, Gallery Nine, 9B Marlborough Buildings Bath, BA1 2LP, 15th November 2025 to 31st January, 2026 
+Bath Open Studios Royal United Hospitals show, in association with Art at the Heart, 10th November 2025 to 3rd February 2026
+
+Bath Open Studios, Winter Show, Burdall's Yard, 7A Anglo Terrace, Bath, BA1 5NH, 17th - 22nd November 2025 
+
+Winter Exhibition, Gallery Nine, 9B Marlborough Buildings Bath, BA1 2LP, 15th November 2025 to 31st January, 2026 
 
 # 2025
 
