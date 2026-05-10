@@ -16,6 +16,21 @@ Melissa Wraxall. com
  5. View website locally. Run node server and check that it looks ok. In terminal, type: node server.js. Open a browser and run the url localhost:3000
 
 
+# adding a new page
+
+1. Create the page folder and files under `docs/pages/` if they do not already exist.
+2. Add page content in the folder, usually `index.md` and an `img/` subfolder for images.
+3. If the page already exists but is not visible in the menu, skip to the next step.
+4. To make the page appear in the site menu, edit `docs/pages/menu.yaml` and add a new entry with the page title and path.
+5. Keep the menu indentation consistent with the existing YAML format.
+
+Example menu entry:
+
+    - title: Gallery
+      url: /pages/gallery/
+
+6. Save your changes, then reload the site locally to verify the page and menu item appear correctly.
+
 
 # scaling images
 
