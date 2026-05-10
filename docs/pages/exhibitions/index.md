@@ -1,10 +1,29 @@
 # Exhibitions 
+Upcoming: Vibrant Pockets, Bath Art Circle show, 1 - 12 April, 44AD Artspace. PV 6pm, 31 March
+
+Royal Commonwealth Society Show: Enchantment, Mystery and Illusion, 6 - 14 March, 2026, 44AD, Bath
+
+44AD Associates Show: Soft Landing, 16 - 31 January 2026, 44AD, Bath
+
+Bath Open Studios Royal United Hospitals show, in association with Art at the Heart, 10th November 2025 to 3rd February 2026
+
+Bath Open Studios, Winter Show, Burdall's Yard, 7A Anglo Terrace, Bath, BA1 5NH, 17th - 22nd November 2025 
+
+Winter Exhibition, Gallery Nine, 9B Marlborough Buildings Bath, BA1 2LP, 15th November 2025 to 31st January, 2026 
 
 # 2025
 
-Coming up: Widcombe Art Trail: more details soon.
+Secret Postcard Auction at the Royal West of England Academy, Bristol
 
-13 - 16th March RCS Bath Artists' Prize Winners Exhibition, March, 44AD Bath
+Soliloquy selected for the group show in the Reception area at the Sulis Hospital, Bath.
+
+Summer Exhibition Group Show, Gallery Nine, 9B Marlborough Buildings Bath, BA1 2LP, 30th June to 31st August, 2025
+
+Widcombe Art Trail, Widcombe Social Club, 28th and 29th June 2025
+
+One Drop, Infinite Ripples, Part of the Festival of Nature, Bath Artist Studios, 7th June - 15th June 2025
+
+RCS Bath Artists' Prize Winners Exhibition, March, 44AD Bath, 13 - 16th March 
 
 Artist Network Exhibition 2025, Royal West of England Academy, Bristol 26th March to 11 May
 
