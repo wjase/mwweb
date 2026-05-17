@@ -1,5 +1,7 @@
 # Exhibitions 
-Upcoming: Vibrant Pockets, Bath Art Circle show, 1 - 12 April, 44AD Artspace. PV 6pm, 31 March
+Upcoming: Elemental, a group show I am curating with Kate Cochrane at Bath Artists' Studios, Comfortable Place, Bath, BA1 3AJ. The show runs from Saturday 23rd May until Sunday 7th June, from 10am  - 4pm. Private View: Saturday 23rd 6.30pm - 8.30pm. 
+
+Vibrant Pockets, Bath Art Circle show, 1 - 12 April, 44AD Artspace. PV 6pm, 31 March
 
 Royal Commonwealth Society Show: Enchantment, Mystery and Illusion, 6 - 14 March, 2026, 44AD, Bath
 
