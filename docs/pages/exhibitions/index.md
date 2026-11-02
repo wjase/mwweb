@@ -1,9 +1,9 @@
 # Exhibitions 
-Upcoming: RWA 173 Annual Open Exhibition, 12th September 2026 - 3rd January 2027
+Current: RWA 173 Annual Open Exhibition, 12th September 2026 - 3rd January 2027
 
-Upcoming: RWA Secret Postcard Auction 2026
+RWA Secret Postcard Auction 2026
 
-Upcoming: Atkinson Gallery show "Conceal/Reveal" Open Exhibition. Millfield School, Butleigh Road, BA16 0ST, September 11th to October 15th 2026
+Atkinson Gallery show "Conceal/Reveal" Open Exhibition. Millfield School, Butleigh Road, BA16 0ST, September 11th to October 15th 2026
 
 Elemental, a group show I curated with Kate Cochrane at Bath Artists' Studios, Comfortable Place, Bath, BA1 3AJ. The show ran from Saturday 23rd May until Sunday 7th June, from 10am  - 4pm. 
 
