@@ -5,21 +5,21 @@
       Magnetism
       Oil on panel
       30cm x 40cm
-    price: 300
+    price: 440
     status: forsale  
   - img: img/shantung_sm.jpg
     alt: |
       Shantung
       Oil on paper, framed
       46cm x 36.5cm
-    price: 450
+    price: 440
     status: forsale 
   - img: img/allegretto_sm.jpg
     alt: |
       Allegretto
       Oil on paper, framed
       46cm x 36.5cm
-    price: 450
+    price: 440
     status: forsale  
 
 
